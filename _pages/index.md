@@ -6,13 +6,13 @@ permalink: /
 
 ## Introduction to Digital Arts and Humanities
 
-- **Spring 2025 (3682)**
+- **Spring 2026 (21284)**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Pre-requisites or co-requisites**: none
 - **Cross-listing**: This course counts an IM elective.
 
-> This course is the foundation course for the forthcoming minor in Digital Arts and Humanities. It is taught in person in Abu Dhabi, but is open to registration by study away students. Capacity will be limited to 15. 
+> This course is the foundation course for the forthcoming minor in [Digital Arts and Humanities](https://bulletins.nyu.edu/undergraduate/abu-dhabi/programs/digital-arts-humanities-minor/). It is taught in person in Abu Dhabi, but is open to registration by study away students. Capacity will be limited to 15. 
 
 
 ## BRIEF COURSE DESCRIPTION:
@@ -21,9 +21,9 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 
 
 | **Element** | **Day** | **Timing** | **Location** | 
-| Lab | Tu | 3:35PM-6:15PM | C2 L00 W007 |
-| Class | Th | 3:35PM-4:50PM | C2 L00 W009 | 
-| Office hours | Th | 1-3PM | A6 L01 1151 |
+| Lab | Tu | 3:20PM-6:00PM | Social Sciences Room 002 |
+| Class | Th | 3:20PM-4:35PM | Computational Research Room 020 | 
+| Office hours | TBA | TBA | A6 L01 1151 |
 | Ramadan in person OH | TBA | TBA | TBA |
 
 
