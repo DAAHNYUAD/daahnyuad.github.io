@@ -43,7 +43,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignment1-S25/)** Due 28 Feb, 20% final grade. 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignment1-S25/)** Due 20 Feb, 20% final grade. 
 {: .notice}
 
 ### Week 4 Computational Analysis of (Historical) Text
@@ -66,8 +66,8 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 17 February 3:20PM-6:00PM | <br> -Barton, [Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br> -Download [DOT](https://dotapp.uk/) (optional, as we will demo it in class) <br> -Kirmizialtin and Wrisley "[Exploring Gulf Manumission Documents with Word Vectors](https://brill.com/view/journals/jdir/2/1-2/jdir.2.issue-1-2.xml), 2024, 1-29 <br> -"[Protect Your Privacy by Deleting Uploaded Files in chatGPT](https://voipnuggets.com/2024/12/05/guide-protect-your-privacy-by-deleting-uploaded-files-in-chatgpt/)"  <br> - "[Why Shouldn't You Share Personal Data with chatGPT or other AI Chatbots](https://www.pcworld.com/article/2535401/why-you-shouldnt-share-personal-data-with-chatgpt-or-other-ai-chatbots.html) | <br> -Hands on with DOT and other LLMs of your choice <br> -summarization, OCR correction, information extraction (using Annie's letters) |
-| Thurs, 29 February 3:20PM-4:35PM | <br> -[GPT for the Arts and Humanities](https://thenewcentre.org/seminars/gpt-for-arts-humanities/) <br> -Rane and Choudhary [Role and challenges of ChatGPT, Google Bard, and similar generative Artificial Intelligence in Arts and Humanities](https://www.sabapub.com/index.php/she/article/view/999)| <br> -general discussion <br> -questions regarding Assignment 1 |
+| Tues, 17 February 3:20PM-6:00PM | <br> -Barton, [Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br> -Download [DOT](https://dotapp.uk/) (optional, as we will demo it in class) <br> -Kirmizialtin and Wrisley "[Exploring Gulf Manumission Documents with Word Vectors](https://brill.com/view/journals/jdir/2/1-2/jdir.2.issue-1-2.xml), 2024, 1-29 <br> -"[Protect Your Privacy by Deleting Uploaded Files in chatGPT](https://voipnuggets.com/2024/12/05/guide-protect-your-privacy-by-deleting-uploaded-files-in-chatgpt/)"  <br> - "[Why Shouldn't You Share Personal Data with chatGPT or other AI Chatbots](https://www.pcworld.com/article/2535401/why-you-shouldnt-share-personal-data-with-chatgpt-or-other-ai-chatbots.html) | <br> -Hands on with DOT and other LLMs in VSCode to extend text analysis <br> -summarization, OCR correction, information extraction (using Annie's letters) |
+| Thurs, 19 February 3:20PM-4:35PM | Instructor at a Conference TBA | TBA |
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -82,7 +82,7 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 30 March, total 10% of final grade, this part being 5%.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 10 March, total 10% of final grade, this part being 5%.
 {: .notice}
 
 **Ramadan begins around here**
@@ -107,12 +107,8 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 24 March 3:20PM-6:00PM | <br> -Instructor at a conference <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | Google Space contributions |
-| Thurs, 26 March 3:20PM-4:35PM | <br> -Instructor at a conference <br> -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Google Space contributions <br> -Choose one HotOSM project and explain in the Google Space (in about 150-200 words with links or images) what it attempts to do | 
-
-**TWO EXTRA CREDIT OPPORTUNITIES:** A Humanist’s Intro to VS Studio Code** that teaches you the fundmentals of Visual Studio Code, another text editor many people use to work with GitHub, signups [here](https://nyu.libcal.com/event/14218477). Please do not choose this option if you are already using VSC. Include in your writeup a comparison using screenshots of how you have been using sublime Text this term. To avail yourself of either extra credit opportunity, you should register for the event, attend and then write a post about what you learned. Due Date: 26 March, 1-2 points on Assignment 2. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
-{: .notice}
-
+| Tues, 24 March 3:20PM-6:00PM | <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | -agentic coding of OSM/GeoNames street data and map making using Leaflet |
+| Thurs, 26 March 3:20PM-4:35PM |  -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Discussion and continuation of geospatial coding in VSCode | 
 
 ### Week 9 More Maps
 
@@ -137,12 +133,12 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 14 April 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  |
+| Tues, 14 April 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  <br> -Extension of Distant Viewing Using scripts from the Distant Viewing Lab and agentic coding |
 | Thurs, 16 April 3:20PM-4:35PM | <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) <br> -[DV Explorer 2.1-2.7 and 5.1-5.2](https://distantviewing.org/dvexplorer/pages/welcome/) | <br> -Discussion of How to Build an Image Corpus <br> -Journal of Open Humanities Data <br> -Zenodo | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/Assignment-3-ImageAI/)** Due 11 May, 20% final grade. 
+**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/Assignment-3-ImageAI/)** Due 8 May, 20% final grade. 
 {: .notice}
 
 ### Week 12 Computer Vision and Historical Images
@@ -152,7 +148,7 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 | Tues, 21 Apr 3:20PM-6:00PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
 | Thurs, 23 April 3:20PM-4:35PM | Continuing CV | <br> -Discussion <br> -Questions about Assignment 3 | 
 
-**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 11 May 2024, 5% final grade.
+**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 8 May 2024, 5% final grade.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
