@@ -26,6 +26,7 @@ There will be installation of some software and/or signups in online platforms i
 - Booth/Posner, Varieties of Digital Humanities, PMLA 135.1(Jan 2020). 
 - Brunn and Dodge, [Mapping Across Academia](https://link.springer.com/book/10.1007/978-94-024-1011-2)
 - Burdick et al. [Digital_Humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph003731637) (MIT, 2014)  open access download [here](https://openresearchlibrary.org/viewer/773deff1-0a60-44dd-aa7b-118c6bf6e9d5/7).
+- D'Ignazio and Klein, Data Feminism.
 - Du Preez, [Voices from the South: Digital Arts and Humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008196635) (Aosis, 2018).
 - Eve, [The Digital Humanities and Literary Studies](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008736613) (Oxford, 2022). 
 - Fiormonte/Chaudhuri/Ricaurte, [Global Debates in the Digital Humanities](https://muse.jhu.edu/book/100081), (Minnesota, 2022). 
