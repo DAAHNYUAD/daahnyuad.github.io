@@ -15,7 +15,7 @@ toc_icon: "calendar"
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 20 Jan (3:20PM-6:00PM) | <br> -Mattingly, "[How to Get Started in Digital Humanities in 2023, and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)" (requires account), Medium, 17 January 2023 <br> -Berry, [What are the Digital Humanities?](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/), British Academy, 13 February 2019 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Introduction to course, expectations, syllabus |
-| Thurs, 22 Jan	(3:20PM-4:35PM) | <br> -Drucker, [ch 1](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488), 1-18.  <br> -Choose one of the links here to discuss [Digital Humanities and AI](https://infoguides.gmu.edu/digitalhumanities/artificialintelligence|) <br> -Discussion of Drucker and DH/AI  <br> -Slides: A few global examples of global communities doing digital arts and humanities [in Drive] | 
+| Thurs, 22 Jan	(3:20PM-4:35PM) | <br> -Drucker, [ch 1](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488), 1-18.  <br> -Choose one of the links here to discuss [Digital Humanities and AI](https://infoguides.gmu.edu/digitalhumanities/artificialintelligence) | <br> -Discussion of Drucker and DH/AI  <br> -Slides: A few global examples of global communities doing digital arts and humanities [in Drive] | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -61,6 +61,7 @@ toc_icon: "calendar"
 Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
+_Ramadan starts. We will have a shorter Tuesday class to accommodate to rest before Iftar._ 
 
 ### Week 5 A Language Model, with Historical Data
 
