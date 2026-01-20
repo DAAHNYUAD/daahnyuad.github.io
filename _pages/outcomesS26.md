@@ -1,5 +1,5 @@
 ---
-title: "Outcomes S25"
+title: "Outcomes S26"
 permalink: /outcomes/
 author_profile: false
 ---
@@ -8,7 +8,7 @@ author_profile: false
 
 ## COURSE LEARNING OUTCOMES: 
 
-The Spring 2025 version of the course will be offered as an elective in Interactive Media. Below is a matrix which maps the Course Learning Outcomes (CLOs) to IM Program Learning Outcomes (PLOs) found here: 
+The Spring 2026 version of the course will be offered as an elective in Interactive Media. Below is a matrix which maps the Course Learning Outcomes (CLOs) to IM Program Learning Outcomes (PLOs) found here: 
 
 | DAAH | CLO | IM | PLO | Weight |
 | 1 | Evaluate theoretical readings in the context of hands on practical exploration | 2&4 | Analytical Thinking, Critical Thinking | Medium |

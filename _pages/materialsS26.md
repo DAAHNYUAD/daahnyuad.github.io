@@ -1,5 +1,5 @@
 ---
-title: "Materials S25"
+title: "Materials S26"
 permalink: /materials/
 author_profile: false
 ---
@@ -51,4 +51,7 @@ A [reference guide](http://guides.nyu.edu/digitalhumanities) for Digital Arts an
 - Mattingly, [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html)
 - Arnold & Tilton, [Humanities Data in R](https://humanitiesdata.org/) 2nd edition.
 - Walsh, [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+
+
+And more to come....
 
