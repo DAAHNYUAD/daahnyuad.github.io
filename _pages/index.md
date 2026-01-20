@@ -23,7 +23,7 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 | **Element** | **Day** | **Timing** | **Location** | 
 | Lab | Tu | 3:20PM-6:00PM | A5 Social Sciences Room 002 |
 | Class | Th | 3:20PM-4:35PM | A2 Computational Research Room 020 | 
-| Office hours | TBA | TBA | A6 L01 1151 |
+| Office hours 😊 | WE | TBA | A6 L01 1151 |
 | Ramadan in person OH | TBA | TBA | TBA |
 
 _During Ramadan the Tuesday session will be slightly shorter to accommodate preparation before Iftar._
