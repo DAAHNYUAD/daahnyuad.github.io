@@ -26,5 +26,7 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 | Office hours | TBA | TBA | A6 L01 1151 |
 | Ramadan in person OH | TBA | TBA | TBA |
 
+_During Ramadan the Tuesday session will be slightly shorter to accommodate preparation before Iftar._
+
 
 To see an archive of previous versions of this course, see [here](https://daahnyuad.github.io/archive/)
