@@ -89,6 +89,8 @@ _Ramadan starts. We will have a shorter Tuesday class to accommodate to rest bef
 **Ramadan begins around here**
 {: .notice}
 
+Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
+
 ### Week 7 Extracting and Visualizing Spatial Information from Sources
 
 | Time/Date | Preparation | Activity |
