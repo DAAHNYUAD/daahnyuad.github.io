@@ -31,9 +31,9 @@ STEP 1: Getting the basics set up
 
 <img src="/assets/images/creatingacct.png" style="zoom:25%;" /> 
 
-2.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Sublime Text](https://www.sublimetext.com/) for simplicity sake. Others are possible, such as [Visual Studio Code](https://code.visualstudio.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
+1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Visual Studio Code](https://code.visualstudio.com/). [Sublime Text](https://www.sublimetext.com/). Others are possible, such asor [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
 
-3.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you.
+2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you. I suggest starting with Github Desktop and transitioning to VSCode.
  
 
 STEP 2  "Forking" a repo. 
@@ -42,7 +42,7 @@ Detailed general instructions for forking can be found [here](https://liamodwyer
 
 4.  Once you have chosen your option from step 1, number 1, you can proceed with making a duplicate of the template we will be using. We do this by navigating to the main page of an existing GitHub page of `minimal-mistakes` and will be using their starter template: https://github.com/mmistakes/mm-github-pages-starter
 
-With your GitHub account open, navigate to this link above, look above the file list to the right, and click `Use This Template` (If you do not see it, you may have to go to Settings to click it on). Select `create a new repository`. This will take what is at `minimal-mistakes` and transfer it over into your account.
+With your GitHub account open (you can tell it is open when you see the icon of your account at top right), navigate to this link above, look above the file list to the right, and click `Use This Template` (If you do not see it, you may have to go to Settings to click it on). Select `create a new repository`. This will take what is at `minimal-mistakes` and transfer it over into your account.
 
 On the page `create a new repository` you need to give the repository a name. Type exactly {yourusername}.github.io where {yourusername} is your GitHub user name. Make sure you set the repository to public and then click on the green button `create repository`
 
