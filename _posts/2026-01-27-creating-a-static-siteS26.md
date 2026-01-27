@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - lab
-  - S25
+  - S26
   - markdown
   - Github Pages
   - VSCode
@@ -28,6 +28,8 @@ STEP 1: Getting the basics set up
 - you can rename the repository, e.g. if the repo were named daahnyuad.github.io you could rename it daahnyuad1.github.io and proceed with this tutorial. 
 - you can create an empty repository named, for example `daah`, and then install the template inside of it. 
 - you can create a new Github account for the purposes of this course. 
+
+These instructions will guide you through the third option. 
 
 <img src="/assets/images/creatingacct.png" style="zoom:25%;" /> 
 
@@ -58,7 +60,7 @@ STEP 3 Connecting the cloud-based Github to your own machine.
 
 Open GitHub Desktop and log into it with your credentials from your GitHub account. You can check that at Setting > Accounts. 
 
-In Github Desktop make sure you are in the current repository {username}.github.io. Then, click on the down arrow which reveals a button `add` with another down arrow which takes you to Clone Repository. 
+In Github Desktop make sure you are in the current repository {username}.github.io. Then, go to File > Clone Repository or with the abovementioned repository, click on the `add` button and pull down for `clone repository`. 
 
 <img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
 
@@ -78,9 +80,11 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
 
-NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop, and not to mix the two, since you end up with a versioning nightmare.
+NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare.
 
-Let's make some changes in Sublime Text and push them. 
+7. If you open the 
+
+Let's make some changes in VSCode and push them. 
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
 

@@ -28,11 +28,13 @@ STEP 1: Getting the basics set up
 - you can create an empty repository named, for example `daah`, and then install the template inside of it. 
 - you can create a new Github account for the purposes of this course. 
 
+The instructions here will guide you through the 3rd option. 
+
 <img src="/assets/images/creatingacct.png" style="zoom:25%;" /> 
 
-2.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Sublime Text](https://www.sublimetext.com/) for simplicity sake. Others are possible, such as [Visual Studio Code](https://code.visualstudio.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
+1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Sublime Text](https://www.sublimetext.com/) for simplicity sake. Others are possible, such as [Visual Studio Code](https://code.visualstudio.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
 
-3.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you.
+2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you.
  
 
 STEP 2  "Forking" a repo. 
