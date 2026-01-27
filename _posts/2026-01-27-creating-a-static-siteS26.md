@@ -58,7 +58,7 @@ STEP 3 Connecting the cloud-based Github to your own machine.
 
 Open GitHub Desktop and log into it with your credentials from your GitHub account. You can check that at Setting > Accounts. 
 
-Then, click on the down arrow which reveals a button `add` with another down arrow which takes you to Clone Repository. 
+In Github Desktop make sure you are in the current repository {username}.github.io. Then, click on the down arrow which reveals a button `add` with another down arrow which takes you to Clone Repository. 
 
 <img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
 
