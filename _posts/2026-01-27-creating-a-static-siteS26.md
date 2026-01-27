@@ -35,30 +35,26 @@ STEP 1: Getting the basics set up
 
 2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you. I suggest starting with Github Desktop and transitioning to VSCode.
  
-
 STEP 2  "Forking" a repo. 
 
 Detailed general instructions for forking can be found [here](https://liamodwyer.github.io/github-pages/5-templates.html)
 
-4.  Once you have chosen your option from step 1, number 1, you can proceed with making a duplicate of the template we will be using. We do this by navigating to the main page of an existing GitHub page of `minimal-mistakes` and will be using their starter template: https://github.com/mmistakes/mm-github-pages-starter
+3.  Once you have completed 1 and 2, you can proceed with making a duplicate of the template we will be using. We do this by navigating to the main page of an existing GitHub page of `minimal-mistakes` and will be using their starter template: https://github.com/mmistakes/mm-github-pages-starter
 
-With your GitHub account open (you can tell it is open when you see the icon of your account at top right), navigate to this link above, look above the file list to the right, and click `Use This Template` (If you do not see it, you may have to go to Settings to click it on). Select `create a new repository`. This will take what is at `minimal-mistakes` and transfer it over into your account.
+4. With your GitHub account open (you can tell it is open when you see the icon of your account at top right), navigate to this link above, look above the file list to the right, and click `Use This Template` (If you do not see it, you may have to go to Settings to click it on). Select `create a new repository`. This will take what is at `minimal-mistakes` and transfer it over into your account (this is called "forking").
 
-On the page `create a new repository` you need to give the repository a name. Type exactly {yourusername}.github.io where {yourusername} is your GitHub user name. Make sure you set the repository to public and then click on the green button `create repository`
+5. On the page `create a new repository` you need to give the repository a name. You should see under general your username. Next to it you can choose a repository name (for example, DAAH). Give it a description Make sure you set the repository to public and then click on the green button `create repository`
 
-<img src="/assets/images/namingrepo.png" style="zoom:25%;" />
+6. Once the repository has been created you need to activate the "build and deploy" function for that page. Go to Settings > Pages and select the `master` branch and save. You can tell that something is working in the repository you just create when you go back and you see the brown dot. A green check mark means the process is done. 
 
-If you choose option 3 above (installing the template into a new repository), make sure that you are installing to the correct repo. 
+> Note that the repo we have forked is a simplified version of `minimal-mistakes`. If you want to tap into all the options of the full version, you will have to download the full theme and do more work!
 
-The detailed instructions linked at the top of Step 2 gives you another template and points you to many more to choose from. Note that the repo we have forked is a simplified version of `minimal-mistakes`. If you want to tap into all the options of the full version, you will have to download the full theme and do more work!
-
-> We will use the starter website (and customize it) for our work in IM-UH 1511, including the creation of pages and posts.
+We will use the starter website (and customize it) for our work in IM-UH 1511, including the creation of pages and posts.
 
 
 STEP 3 Connecting the cloud-based Github to your own machine.
 
-
-5.   Cloning this repository to Github Desktop
+1.   Cloning this repository to Github Desktop
 
 Open GitHub Desktop and log into it with your credentials from your GitHub account. You can check that at Setting > Accounts. 
 
