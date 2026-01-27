@@ -13,7 +13,7 @@ tags:
 
 ## Getting Started with GitHub Education and Customizing Your Site
 
-Here we look at three important steps to getting on track for [Distant Coding](https://anastasiasalter.net/DistantCoding/transcript.html): verifying your GitHub Education activation, setting up VSCode with your GitHub Education account, and making simple customizations to your Minimal Mistakes template.
+Here we look at three important steps to getting on track for [Distant Coding](https://anastasiasalter.net/DistantCoding/transcript.html): verifying your GitHub Education activation, setting up VSCode with your GitHub Education account, and making simple customizations to your Minimal Mistakes template. An introduction to GitHub Copilot agent mode can be found [here](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode).
 
 <!--more-->
 
@@ -40,22 +40,11 @@ Once you have your GitHub Education account activated, you can use VSCode as you
 
 **Steps to connect VSCode to GitHub:**
 
-1. **Install VSCode** from [code.visualstudio.com](https://code.visualstudio.com/) if you haven't already
-2. **Install the GitHub Copilot extension** (optional, but included free with GitHub Education):
-   - Open VSCode and go to the Extensions panel (Ctrl+Shift+X on Windows/Linux, Cmd+Shift+X on Mac)
-   - Search for "GitHub Copilot" and click **Install**
-3. **Install the GitHub Pull Requests and Issues extension:**
-   - Search for "GitHub Pull Requests and Issues" in Extensions and install it
-4. **Sign in to GitHub from VSCode:**
-   - Press Ctrl+Shift+P (or Cmd+Shift+P on Mac) to open the Command Palette
-   - Type "GitHub: Sign in" and press Enter
-   - Follow the prompts to authenticate with your GitHub account
-5. **Clone your repository:**
-   - Open the Command Palette and type "Git: Clone"
-   - Paste your repository URL (e.g., `https://github.com/yourusername/yourusername.github.io`)
-   - Choose a local folder to clone to
-
-Now you can edit files directly in VSCode and push changes to GitHub without needing GitHub Desktop!
+1. **Install VSCode** from [code.visualstudio.com](https://code.visualstudio.com/)
+2. **Install the GitHub Copilot extension**:
+   - Open VSCode and go to the Extensions panel (Ctrl+Shift+X on Windows/Linux, Cmd+Shift+X on Mac). You can also see the icon for extensions in the left hand panel. It looks like four blocks, one of which is at a diagonal.
+   - Search for "GitHub Copilot Chat Extension" and click **Install**
+   - You may need to restart VSCode, but you should see a chat icon with a drop down menu. 
 
 ### Part 3: Simple Customizations to Minimal Mistakes
 
@@ -130,7 +119,7 @@ comments:
 
 After making edits in VSCode:
 
-1. Open the Source Control panel (Ctrl+Shift+G or Cmd+Shift+G)
+1. Open GitHub Desktop and make sure you are in the repository for the Minimal Mistakes theme you forked. 
 2. Review your changes
 3. Enter a commit message (e.g., "Update site title and navigation")
 4. Click the checkmark to commit
