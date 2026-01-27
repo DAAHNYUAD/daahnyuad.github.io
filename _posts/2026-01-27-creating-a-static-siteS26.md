@@ -82,7 +82,7 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 
 NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare.
 
-7. If you open the 
+7. If you use the button in Github Desktop to open in 
 
 Let's make some changes in VSCode and push them. 
 
