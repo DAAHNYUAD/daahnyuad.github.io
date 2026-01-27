@@ -82,7 +82,7 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 
 NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare.
 
-7. If you use the button in Github Desktop to open in 
+7. If you use the button in Github Desktop to open in external editor (choosing Visual Studio Code), we can now move on to editing any of the pages. 
 
 Let's make some changes in VSCode and push them. 
 
@@ -94,6 +94,9 @@ NB: It is possible to do some editing in the GitHub web interface itself, but I 
 
 > Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. 
 
-There is a follow up post [Customizing your Static Site in GitHub Pages]().
+There are some follow up posts 
+
+- [Connecting your VSCode to CoPilot]()
+- [Customizing your Static Site in GitHub Pages]().
 
 Enjoy!
