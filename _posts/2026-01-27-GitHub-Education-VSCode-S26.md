@@ -122,7 +122,7 @@ After making edits in VSCode:
 1. Open GitHub Desktop and make sure you are in the repository for the Minimal Mistakes theme you forked. 
 2. Review your changes
 3. Enter a commit message (e.g., "Update site title and navigation")
-4. Click the checkmark to commit
+4. Click `commit to master`.
 5. Click **Publish Branch** or **Sync** to push to GitHub
 
 Your site will automatically rebuild within a few minutes. You can check the status in your repository's **Actions** tab on GitHub.
