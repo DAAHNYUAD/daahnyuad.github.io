@@ -17,10 +17,10 @@ Today in lab one of the things we will be doing is to create your own site at Gi
 
 Knowing how to create such a "[static site](https://kinsta.com/knowledgebase/what-is-a-static-website/)" is an important skill in minimal and sustainable digital arts and humanities. The site is free, maintenance is minimal and it can also sit alongside examples of code or data that you have created. Curating a tidy, clear site creates a web presence for yourself. 
 
-> This course site is created in GitHub Pages by forking the **Minimal Mistakes** starter theme. I have used this theme to model how you can go about learning for yourself. When you gain more confidence you will be able to change to other themes (or even go with the full version of the Minimal Mistakes theme) and customize them to your own liking.
+> This course site is created in GitHub Pages by forking the **Minimal Mistakes** starter theme. I have used this theme to model how you can go about learning for yourself. When you gain more confidence you will be able to change to other themes (or even go with the full version of the Minimal Mistakes theme) and customize them to your own liking. 
 
-## GitHub Terminology
-
+## GitHub and GitHub Pages Terminology
+ 
 Before we begin, here are some new terms you'll encounter when working with GitHub:
 
 | Term | Definition |
@@ -30,11 +30,14 @@ Before we begin, here are some new terms you'll encounter when working with GitH
 | **Clone** | Downloading a copy of a repository from GitHub to your local computer so you can work on it offline. |
 | **Commit** | Saving a snapshot of your changes with a descriptive message. Think of it as a checkpoint in your project's history. |
 | **Push** | Uploading your local commits to the remote repository on GitHub, making your changes visible online. |
-| **Pull** | Downloading changes from the remote repository to your local copy to stay up-to-date. |
-| **Branch** | A parallel version of your repository where you can work on changes without affecting the main version. |
-| **Merge** | Combining changes from one branch into another (e.g., merging your edits into the main branch). |
-| **Remote** | The version of your repository hosted on GitHub (as opposed to the local version on your computer). |
+| **Fetch** | Downloading changes from the remote repository to your local copy to stay up-to-date. |
 | **Versioning** | The practice of tracking and managing changes to files over time. Git stores a complete history of every version of your project, allowing you to revert to previous versions if needed. |
+| **Static Site** | A website composed of fixed HTML, CSS, and JavaScript files that don't change unless you edit them directly. Static sites are fast, secure, and require no database or server-side processing. |
+| **GitHub Pages** | A free hosting service provided by GitHub that automatically publishes websites directly from a repository. Perfect for static sites, portfolios, and documentation. |
+| **Template** | A pre-designed structure and styling for a website that you can customize with your own content. Templates like Minimal Mistakes provide a foundation so you don't start from scratch. |
+| **Jekyll** | A static site generator that transforms your Markdown and template files into HTML. GitHub Pages uses Jekyll to automatically build your site. |
+| **Markdown** | A simple, human-readable format for writing content that gets converted to HTML. Uses symbols like `#` for headings, `**` for bold, and `-` for lists. |
+| **Build** | The process where Jekyll converts your Markdown files and templates into the final HTML website that visitors see. GitHub Pages builds automatically when you push changes. |
 
 STEP 1: Getting the basics set up
 
@@ -51,7 +54,7 @@ These instructions will guide you through the third option.
 
 1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Visual Studio Code](https://code.visualstudio.com/). Others are possible, such as [Sublime Text](https://www.sublimetext.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
 
-2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you. I suggest starting with Github Desktop and transitioning to VSCode.
+2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you. I suggest starting with Github Desktop and transitioning to committing directly in VSCode.
  
 STEP 2  "Forking" a repo. 
 
@@ -72,7 +75,7 @@ We will use the starter website (and customize it) for our work in IM-UH 1511, i
 
 STEP 3 Connecting the cloud-based Github to your own machine.
 
-1.   Cloning this repository to Github Desktop
+1.   "Cloning" this repository to Github Desktop
 
 Open GitHub Desktop and log into it with your credentials from your GitHub account. You can check that at Setting > Accounts. 
 
@@ -96,7 +99,7 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
 
-NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare.
+> NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare. If you do make a change in the GitHub web interface, make sure that you fetch the origin. 
 
 7. If you use the button in Github Desktop to open in external editor (choosing Visual Studio Code), we can now move on to editing any of the pages. 
 
