@@ -123,12 +123,15 @@ After making edits in VSCode:
 2. Review your changes
 3. Enter a commit message (e.g., "Update site title and navigation")
 4. Click `commit to master`.
-5. Click **Publish Branch** or **Sync** to push to GitHub
+5. Click `push commits to origin remote` to push to GitHub.
 
-Your site will automatically rebuild within a few minutes. You can check the status in your repository's **Actions** tab on GitHub.
+Your site will automatically rebuild within a few minutes. You can check the status in your repository's **Actions** tab on GitHub. or look for the green check. 
 
 ### Next Steps
 
 With GitHub Education activated, VSCode set up, and your site customized, you're ready to start creating content! In future posts, we'll explore creating pages, organizing posts by categories, and more advanced customizations.
 
-Enjoy building your portfolio site!
+Enjoy!
+
+
+Later, we will learn how to make commits directly in VSCode. For now the step of passing to GitHub desktop is intentionally designed to slow us down. 
