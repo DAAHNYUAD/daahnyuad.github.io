@@ -49,7 +49,7 @@ These instructions will guide you through the third option.
 
 <img src="/assets/images/creatingacct.png" style="zoom:25%;" /> 
 
-1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Visual Studio Code](https://code.visualstudio.com/). [Sublime Text](https://www.sublimetext.com/). Others are possible, such asor [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
+1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Visual Studio Code](https://code.visualstudio.com/). Others are possible, such as [Sublime Text](https://www.sublimetext.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
 
 2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you. I suggest starting with Github Desktop and transitioning to VSCode.
  
@@ -110,9 +110,9 @@ NB: It is possible to do some editing in the GitHub web interface itself, but I 
 
 > Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. 
 
-There are some follow up posts 
+Follow up posts:
 
-- [Connecting your VSCode to CoPilot]()
-- [Customizing your Static Site in GitHub Pages]().
+- [Connecting your VSCode to CoPilot and Customizing your GitHub page](https://daahnyuad.github.io/blog/GitHub-Education-VSCode-S26/)
+- Committing directly in VSCode -- coming soon
 
 Enjoy!
