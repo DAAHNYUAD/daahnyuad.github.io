@@ -24,7 +24,7 @@ Knowing how to create such a "[static site](https://kinsta.com/knowledgebase/wha
 Before we begin, here are some new terms you'll encounter when working with GitHub:
 
 | Term | Definition |
-| :—- | :—- |
+| :--- | :--- |
 | **Repository (Repo)** | A folder/project containing all your files and their revision history. Can exist locally on your computer and/or remotely on GitHub. |
 | **Fork** | Creating a copy of someone else's repository in your own GitHub account. You can modify your fork without affecting the original. |
 | **Clone** | Downloading a copy of a repository from GitHub to your local computer so you can work on it offline. |
