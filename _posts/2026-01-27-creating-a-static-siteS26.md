@@ -6,7 +6,7 @@ categories:
 tags:
   - lab
   - S26
-  - markdown
+  - Markdown
   - Github Pages
   - VSCode
 ---
@@ -19,6 +19,22 @@ Knowing how to create such a "[static site](https://kinsta.com/knowledgebase/wha
 
 > This course site is created in GitHub Pages by forking the **Minimal Mistakes** starter theme. I have used this theme to model how you can go about learning for yourself. When you gain more confidence you will be able to change to other themes (or even go with the full version of the Minimal Mistakes theme) and customize them to your own liking.
 
+## GitHub Terminology
+
+Before we begin, here are some new terms you'll encounter when working with GitHub:
+
+| Term | Definition |
+|------|------------|
+| **Repository (Repo)** | A folder/project containing all your files and their revision history. Can exist locally on your computer and/or remotely on GitHub. |
+| **Fork** | Creating a copy of someone else's repository in your own GitHub account. You can modify your fork without affecting the original. |
+| **Clone** | Downloading a copy of a repository from GitHub to your local computer so you can work on it offline. |
+| **Commit** | Saving a snapshot of your changes with a descriptive message. Think of it as a checkpoint in your project's history. |
+| **Push** | Uploading your local commits to the remote repository on GitHub, making your changes visible online. |
+| **Pull** | Downloading changes from the remote repository to your local copy to stay up-to-date. |
+| **Branch** | A parallel version of your repository where you can work on changes without affecting the main version. |
+| **Merge** | Combining changes from one branch into another (e.g., merging your edits into the main branch). |
+| **Remote** | The version of your repository hosted on GitHub (as opposed to the local version on your computer). |
+| **Versioning** | The practice of tracking and managing changes to files over time. Git stores a complete history of every version of your project, allowing you to revert to previous versions if needed. |
 
 STEP 1: Getting the basics set up
 
