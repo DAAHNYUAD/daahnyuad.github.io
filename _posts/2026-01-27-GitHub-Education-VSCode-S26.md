@@ -45,6 +45,8 @@ Once you have your GitHub Education account activated, you can use VSCode as you
    - Open VSCode and go to the Extensions panel (Ctrl+Shift+X on Windows/Linux, Cmd+Shift+X on Mac). You can also see the icon for extensions in the left hand panel. It looks like four blocks, one of which is at a diagonal.
    - Search for "GitHub Copilot Chat Extension" and click **Install**
    - You may need to restart VSCode, but you should see a chat icon with a drop down menu. 
+3. Follow these [instructions](https://code.visualstudio.com/docs/copilot/setup) to then sign in to Github from VSCode. If you plan has been verified in Part 1 above, you should be able to use it straight away. 
+
 
 ### Part 3: Simple Customizations to Minimal Mistakes
 
