@@ -79,13 +79,11 @@ STEP 3 Connecting the cloud-based Github to your own machine.
 
 Open GitHub Desktop and log into it with your credentials from your GitHub account. You can check that at Setting > Accounts. 
 
-In Github Desktop make sure you are in the current repository {username}.github.io. Then, go to File > Clone Repository or with the abovementioned repository, click on the `add` button and pull down for `clone repository`. 
+In Github Desktop, go to File > Clone Repository or with the abovementioned repository, click on the `add` button and pull down for `clone repository`. 
 
 <img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
 
-There are several ways of finding the repository you want to clone. When you install Github Desktop for the first time it may ask you if you want to clone.
-
-A sure way of selecting the right place is to copy the URL of your repository where you forked the `minimal-mistakes`template. You can paste that URL in the URL tab and click clone. 
+There are several ways of finding the repository you want to clone. When you install Github Desktop for the first time it may ask you if you want to clone. It may also suggest that repo once you have selected `clone repository`. Another sure way of selecting the right place is to copy the URL of your repository where you forked the `minimal-mistakes`template. You can paste that URL in the URL tab and click clone. 
 
 <img src="/assets/images/clonerepo.png" style="zoom:60%;" />
 
@@ -95,9 +93,11 @@ If successful, you should be able to see the repository in the current repositor
 
 Now that you have a copy of the repository on your laptop you can edit it there (even offline and with no internet connection) and then later "push" the changes to the web. 
 
-When you edit and save (and sometime enter a commit message), you will see a blue button to transfer these changes to the web. 
+When you edit, save in VSCode (and sometime enter a commit message in Github Desktop), you then clock `commit to master` and you will see a blue button at right `push origin`. Click it to transfer these changes to the web. That is three clicks to push something to the web!
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
+
+> Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. 
 
 > NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare. If you do make a change in the GitHub web interface, make sure that you fetch the origin. 
 
@@ -106,12 +106,16 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 Let's make some changes in VSCode and push them. 
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
+ 
+Pages that have editable material to change your site: 
 
-From GitHub Desktop you can also select which text editor you want to work in. 
+- navigation.yml
+- _config.yml
 
-NB: It is possible to do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop, and not to mix the two, since you end up with a versioning nightmare.
+So that you can have the landing page be a page and not a post, try this: 
 
-> Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. 
+
+
 
 Follow up posts:
 
