@@ -58,25 +58,32 @@ toc_icon: "calendar"
 
 **EXTRA CREDIT OPPORTUNITY: It's Love Data Week [in NYC](https://guides.nyu.edu/love-data) and [in AD](https://nyu-abudhabi.libcal.com/calendar/workshops?cid=8877&t=g&d=0000-00-00&cal=8877&inc=0)** 
 
-Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+Due Date: 25 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
 _Ramadan starts. We will have a shorter Tuesday class to accommodate to rest before Iftar._ 
 
-### Week 5 A Language Model, with Historical Data
+### Week 5 
+
+Instructor away at a conference. Work on Assignment 1 and Response 1.
+
+**EXTRA CREDIT OPPORTUNITY: It's Love Data Week [in NYC](https://guides.nyu.edu/love-data) and [in AD](https://nyu-abudhabi.libcal.com/calendar/workshops?cid=8877&t=g&d=0000-00-00&cal=8877&inc=0)** 
+
+Due Date: 25 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+{: .notice}
+
+### Week 6 Much Larger Textual Analysis - Historical Corpora and Term Frequency-Inverse Document Frequency
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-
-|  | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) |  <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive] <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -Correcting and Retraining the Machine <br> -Using Transformer Models to Analyze Historical Documents <br> -Analyzing and Classifying Documents with OCR error 
-| Tues, 17 February 3:20PM-6:00PM | <br> -Barton, [Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br> -Download [DOT](https://dotapp.uk/) (optional, as we will demo it in class) <br> -Kirmizialtin and Wrisley "[Exploring Gulf Manumission Documents with Word Vectors](https://brill.com/view/journals/jdir/2/1-2/jdir.2.issue-1-2.xml), 2024, 1-29 <br> -"[Protect Your Privacy by Deleting Uploaded Files in chatGPT](https://voipnuggets.com/2024/12/05/guide-protect-your-privacy-by-deleting-uploaded-files-in-chatgpt/)"  <br> - "[Why Shouldn't You Share Personal Data with chatGPT or other AI Chatbots](https://www.pcworld.com/article/2535401/why-you-shouldnt-share-personal-data-with-chatgpt-or-other-ai-chatbots.html) | <br> -Hands on with DOT and other LLMs in VSCode to extend text analysis <br> -summarization, OCR correction, information extraction (using Annie's letters) |
-| Thurs, 19 February 3:20PM-4:35PM | Instructor at a Conference TBA | TBA |
+| 24 Feb | <br> -Term Frequency-Inverse Document Frequency with Project Gutenberg [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) | <br> -Lab with 3d visualization of TF IDF  <br> -Hands on intro to Transkribus
+| 26 Feb | <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? |  <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  <br> -Correcting and Retraining the Machine 
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ## UNIT 3: SPATIAL DATA 
 
-### Week 6 The (Geo)spatial in the arts and humanities
+### Week 7 The (Geo)spatial in the arts and humanities
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
