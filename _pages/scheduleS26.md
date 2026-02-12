@@ -43,15 +43,15 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignment1-S25/)** Due 20 Feb, 20% final grade. 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-S26/)** Due 28 Feb, 20% final grade. 
 {: .notice}
 
 ### Week 4 Computational Analysis of (Historical) Text
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 10 February 3:20PM-6:00PM |  <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -RMarkdown notebook" Identifying Most Distinctive Words in Three (Sets of) Texts" adapted from [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) NB: This book was written in RMarkdown and Github using the [bookdown](https://bookdown.org/) package. <br> -Extending the Most Distinctive Words exercise with agentic coding |
-| Thurs, 12 February 3:20PM-4:35PM |  <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) |  <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive] <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -Correcting and Retraining the Machine <br> -Using Transformer Models to Analyze Historical Documents <br> -Analyzing and Classifying Documents with OCR error |
+| Tues, 10 February 3:20PM-6:00PM |  <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) |
+| Thurs, 12 February 3:20PM-4:35PM | <br> -experiment with notebook <br> -go over [Assignment 1](https://daahnyuad.github.io/Assignment1-S26/) | -continuing with Rmd Notebooks (Project Gutenberg Explorer and Colonial South Asian Fiction Explorer) |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
@@ -67,6 +67,8 @@ _Ramadan starts. We will have a shorter Tuesday class to accommodate to rest bef
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
+
+|  | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) |  <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive] <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -Correcting and Retraining the Machine <br> -Using Transformer Models to Analyze Historical Documents <br> -Analyzing and Classifying Documents with OCR error 
 | Tues, 17 February 3:20PM-6:00PM | <br> -Barton, [Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br> -Download [DOT](https://dotapp.uk/) (optional, as we will demo it in class) <br> -Kirmizialtin and Wrisley "[Exploring Gulf Manumission Documents with Word Vectors](https://brill.com/view/journals/jdir/2/1-2/jdir.2.issue-1-2.xml), 2024, 1-29 <br> -"[Protect Your Privacy by Deleting Uploaded Files in chatGPT](https://voipnuggets.com/2024/12/05/guide-protect-your-privacy-by-deleting-uploaded-files-in-chatgpt/)"  <br> - "[Why Shouldn't You Share Personal Data with chatGPT or other AI Chatbots](https://www.pcworld.com/article/2535401/why-you-shouldnt-share-personal-data-with-chatgpt-or-other-ai-chatbots.html) | <br> -Hands on with DOT and other LLMs in VSCode to extend text analysis <br> -summarization, OCR correction, information extraction (using Annie's letters) |
 | Thurs, 19 February 3:20PM-4:35PM | Instructor at a Conference TBA | TBA |
  
