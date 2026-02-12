@@ -56,7 +56,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** 
+**EXTRA CREDIT OPPORTUNITY: It's Love Data Week [in NYC](https://guides.nyu.edu/love-data) and [in AD](https://nyu-abudhabi.libcal.com/calendar/workshops?cid=8877&t=g&d=0000-00-00&cal=8877&inc=0)** 
 
 Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
