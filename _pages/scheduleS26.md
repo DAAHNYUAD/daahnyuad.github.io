@@ -76,8 +76,8 @@ Due Date: 25 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| 24 Feb | <br> -Term Frequency-Inverse Document Frequency with Project Gutenberg [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) | <br> -Lab with 3d visualization of TF IDF  <br> -Hands on intro to Transkribus
-| 26 Feb | <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? |  <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  <br> -Correcting and Retraining the Machine 
+| 24 Feb | <br> -Most Distinctive Word Analysis of 3 Texts  <br> -TF-IDF Analysis of [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) | <br> -Lab with Most Distinctive Analysis and TF IDF  |
+| 26 Feb | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  <br> -Hands on intro to Transkribus <br> -Correcting and Retraining the Machine 
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
