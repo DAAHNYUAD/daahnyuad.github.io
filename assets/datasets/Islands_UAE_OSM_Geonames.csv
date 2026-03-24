@@ -1,0 +1,247 @@
+SOURCE,geonames_ID,Name1,Name2,Name3,lat,long
+geonames,291589,Jazīrat al Ma‘āshī,Jazirat al Ma`ashi,"Jazirat al Ma`ashi,Jazīrat al Ma‘āshī,Jeziret al-Ma'ashi,Jezīret al-Ma’āshī",23.83333,51.83333
+geonames,290772,Jazīrat Shuwayhāt,Jazirat Shuwayhat,"Jazirat Mashat,Jazirat Showayhat,Jazirat Shuwayhat,Jazīrat Mashat,Jazīrat Showayhāt,Jazīrat Shuwayhāt,Shuwaihat,Shuwaihāt,Shuweihat,Shuweihāt",24.11391,52.43971
+geonames,291381,Muhammalīyah,Muhammaliyah,"Al Mahammaliyah,Jazirat Muhammaliyah,Jazīrat Muḩammalīyah,Mahamaliya,Mehammaliyya,Mehammaliyyah,Muhammaliya,Muhammaliyah,Muhammalīyah",24.11616,51.89603
+geonames,292811,Al Khuşayfah,Al Khusayfah,"Al Khusayfah,Al Khuşayfah,Khesaifa,Khesaifah,Khusaifah,Khusayfah,Khuşayfah",24.12387,53.27505
+geonames,292604,Az Zabbūt,Az Zabbut,"Az Zabbut,Az Zabbūt,Jazirat Zabut,Jazīrat Zabut,Zabbut,Zabbūt",24.13324,52.43557
+geonames,292534,Qaşşār Ba‘yā,Qassar Ba`ya,"Kassar al Baya,Kassār al Baya,Qasar al Ba`aya,Qasr Ba`ja',Qassar Ba`ya,Qasār al Ba‘ayā,Qaşr Ba‘jā’,Qaşār al Ba‘ayā,Qaşşār Ba‘yā",24.14083,51.80778
+geonames,291784,Judayrah,Judayrah,"Bandar Judaira,Judayrah",24.15002,51.99335
+geonames,290649,Thumayrīyah,Thumayriyah,"Themairiyya,Themeiriyyah,Thimairiyah,Thumayriyah,Thumayrīyah",24.15033,53.01689
+geonames,292769,Al Qanţūr,Al Qantur,"Al Qantur,Al Qanţūr,Al-Gantur,Al-Ganţūr,Al-Ghantur,Al-Ghantūr,Jezirat Kantur,Jezīrat Kantur,Qantar Island,Qantur,Qanţūr",24.15339,54.07769
+geonames,291812,Jumaylah,Jumaylah,"Halat Jamilah,Halet Jamila,Hālet Jamīla,Jumaylah,Ḩālat Jamīlah",24.15473,54.03612
+geonames,290467,Yāsāt Şaghīrah,Yasat Saghirah,"Yasat Saghirah,Yāsāt Şaghīrah",24.15912,52.0007
+geonames,292335,Bū Shiyārah,Bu Shiyarah,"Bu Shiyarah,Bū Shiyārah,Sawami`,Şawāmi‘",24.1598,53.04958
+OSM,node/1173994628,Al Qantur Island,Al Qantur Island,,24.168967,54.0922112
+geonames,292374,Bū Khurayj,Bu Khurayj,"Bu Kharaij,Bu Khurayj,Bū Khurayj",24.17227,53.0884
+geonames,290721,Jazīrat aş Şīlīyā,Jazirat as Siliya,"Jazirat Sulayyah,Jazirat as Siliya,Jazīrat aş Şīlīyā,Jazīrat Şulayyah",24.18286,52.8921
+OSM,relation/13019431,Jazirat ar Rafiq,جزيرة الرفيق,جزيرة الرفيق,24.1831659,54.040138
+geonames,292654,As Salālī,As Salali,"As Salali,As Salālī,Jazirat as Salali,Jazīrat as Salālī,Salali",24.18333,54
+geonames,292695,Jazīrat ar Rafīq,Jazirat ar Rafiq,"Ar Rafiq,Ar Rafīq,Ar Rufayq,Jazirat ar Rafiq,Jazīrat ar Rafīq",24.1852,54.04899
+OSM,relation/12902864,Al Yas Al Safli Island,جزيرة الياس السافلي,جزيرة الياس السافلي,24.1865663,51.9945373
+geonames,290468,Al Yāsāt as Suflá,Al Yasat as Sufla,"Al Yasat as Sufla,Al Yāsāt as Suflá,Yasat Safli,Yāsāt Saflī",24.18675,51.9948
+geonames,291353,Muqayshiţ,Muqayshit,"Megaishit,Megeshit,Megeshiţ,Muqayshit,Muqayshiţ",24.18908,53.75226
+geonames,292832,Al Jirāb,Al Jirab,"Al Jirab,Al Jirāb,Jirab,Jirāb",24.19038,53.89637
+OSM,way/329321866,,Şalāḩah,,24.1935375,53.5379487
+geonames,292336,Jazīrat Abū as Sayāyīf,Jazirat Abu as Sayayif,"Bu Shara,Bu Sharah,Bu Shāra,Bū Shārah,Jazirat Abu as Sayayif,Jazīrat Abū as Sayāyīf",24.19446,54.08477
+OSM,relation/13019432,Jabirat Abu as Sayarif,Jabirat Abu as Sayarif,,24.1946439,54.0804391
+geonames,292283,Daqalah,Daqalah,"Dagallah,Daqalah,Deqala,Deqalah,Jazirat Daqalah,Jazīrat Daqalah",24.19506,52.94717
+geonames,290952,Şalāḩah,Salahah,"As Salahah,Aş Şalāḩah,Salahah,Salala,Şalāḩah",24.1955,53.53829
+OSM,relation/9326281,Abu Al Abyad Island,جزيرة أبو الأبيض,جزيرة أبو الأبيض,24.1966989,53.7979027
+geonames,291998,Al Ḩamar,Al Hamar,"Al Hamar,Al Humr,Al Ḩamar,Al Ḩumr,Al-Homor,Al-Humur,Al-Ḥumur,Djezirat al Hamar,Jazirat al Hamar,Jazīrat al Ḩamar",24.2009,52.78888
+geonames,292740,Al Yāsāt,Al Yasat,"Al Ya'sin,Al Yasat,Al Yasayn,Al Yāsayn,Al Yāsāt,Al Yā’sīn,Jazair al Yasat,Jazair al Yāsāt,Jezirat Yasat,Jezirat Yásat",24.20557,51.99808
+OSM,way/13649394,,Janānah,,24.2061776,53.4064457
+geonames,291811,Janānah,Jananah,"Al Djunaina,Al Junaina,Al Junaynah,Janana,Jananah,Janāna,Janānah,Junanah,Juneina",24.20722,53.40528
+geonames,292997,Abū al Abyaḑ,Abu al Abyad,"Abu al Aby,Abu al Abyad,Abu-ehl'-Ab'jad,Abū al Aby,Abū al Abyaḑ,Al Jirab,Al Jirāb,Jazirat Abu al Abyadh,Jazirat Abul Abyad,Jazīrat Abu al Abyadh,Jazīrat Abūl Abyaḑ,Jezirat Abul Abyadh,Magayshit,Maqaishat Island,Megaishit,Mukayshit,Mukaysẖiṭ,Muqayshit,Muqayshiţ,Абу-эль-Абьяд",24.20796,53.81001
+OSM,relation/13019433,,Qassabi Island,,24.2104352,54.1008569
+geonames,291165,Qaşşābī,Qassabi,"Gassabi,Gassābi,Jassabi,Jaşşābī,Qassabi,Qaşşābī,Qusabi,Quşābī,Umm al Majarib,Umm al Majārib",24.21093,54.1017
+geonames,290601,Umm al Ḩaţab,Umm al Hatab,"Jazirat Umm al Hatab,Jazīrat Umm al Ḩaţab,Umm al Halab Island,Umm al Hatab,Umm al Ḩaţab,Umm el Halab",24.21623,51.86389
+OSM,relation/12902166,Al Yas Al 'Ali Island,جزيرة الياس العالي,جزيرة الياس العالي,24.2324258,52.0110349
+geonames,292380,Bū Ka‘l,Bu Ka`l,"Bu Ka`l,Bū Ka‘l",24.23639,54.10611
+geonames,290469,Al Yāsāt al ‘Ulyā,Al Yasat al `Ulya,"Al Yasat al `Ulya,Al Yāsāt al ‘Ulyā,Yasat `Ali,Yāsāt ‘Alī",24.23662,52.01234
+geonames,292354,Bū Qirmah,Bu Qirmah,"Bu Qermah,Bu Qirmah,Bū Qermah,Bū Qirmah",24.23973,54.11756
+geonames,292806,Ḩālat al ‘Allāk,Halat al `Allak,"Halat Buwaytir,Halat al `Alaq,Halat al `Allak,Halet al 'Allaq,Halet al ’Allāq,Halet al-'Allag,Hālet al-’Allāg,Ḩālat Buwaytir,Ḩālat al ‘Alaq,Ḩālat al ‘Allāk",24.24022,52.68217
+geonames,290588,Umm ‘Amīm,Umm `Amim,"Jazirat Umm `min,Jazīrat Umm ‘mīn,Umm `Amim,Umm ‘Amīm",24.24128,53.39448
+geonames,290774,Shū Triyyah,Shu Triyyah,"Shu Triyyah,Shū Triyyah",24.24938,54.29977
+geonames,398678,Jazīrat Ḩāmī Rūḩah,Jazirat Hami Ruhah,"Jazirat Hami Ruhah,Jazīrat Ḩāmī Rūḩah",24.27311,51.68834
+geonames,291263,Na‘ītah,Na`itah,"Jazirat Na`itah,Jazīrat Na‘ītah,Na`itah,Naita,Na‘ītah,Ne'ita,Ne’īta,Ni`eitah,Ni‘eitah",24.29085,51.79455
+geonames,292881,Al Fīyay,Al Fiyay,"Al Bazm ash Sharqi,Al Bazm ash Sharqī,Al Fiha,Al Fiyay,Al Fuyay',Al Fuyay’,Al Fīyay,Al-Bazm al-Sharqi,Fiyya",24.29759,53.19911
+geonames,291518,Jazīrat Marawwaḩ,Jazirat Marawwah,"Al Ghubbah,Jazirat Marawwah,Jazīrat Marawwaḩ,Maravakh,Marawah,Marawaḩ,Marawih,Marawwah,Marawwaḩ,Marāwiḩ,Merawwa,Merawwah,Merawwaḥ,Маравах",24.29826,53.28894
+geonames,290775,Shuray‘ah,Shuray`ah,"Shuray`ah,Shuray‘ah",24.3,53.61667
+geonames,292373,Bū Khushayshah,Bu Khushayshah,"Bu Khushayshah,Bu-Keshaisha,Bu-Kesheidhah,Bū Khushayshah,Bū-Kesheidhah",24.3,54.21667
+OSM,way/174787347,,,,24.3008207,54.4012063
+geonames,290540,‘Ushsh,`Ushsh,"Ishsh,Al Isha,Jazirat `Ish,Jazīrat ‘Ish,Ushsh,`Ashsh,`Ish,`Ushsh,‘Ashsh,‘Ish,‘Ushsh,’Ishsh",24.30488,52.87712
+geonames,292839,Al Ifzī‘īyah,Al Ifzi`iyah,"Al Fadiyah,Al Faz`iyah,Al Faza`iyah,Al Fazaya,Al Faza‘īyah,Al Fazāya,Al Faz‘īyah,Al Faḑīyah,Al Ibsaiya,Al Ifzi`iyah,Al Ifzī‘īyah,Al `Ubsayyah,Al ‘Ubsayyah,Al-'Ifzi`iyyah,Al-Ifzai'yya,Al-Ifzai’yya,Al-’Ifzī‘iyyah,El Fazaya,Jazirat al Fadiyah,Jazirat al `Ubsayyah,Jazīrat al Faḑīyah,Jazīrat al ‘Ubsayyah",24.30557,51.65922
+OSM,relation/13054470,Sir Bani Yas,صير بني ياس,صير بني ياس,24.3166296,52.6010491
+geonames,290481,Jazīrat Yabr,Jazirat Yabr,"Jazirat Yabr,Jazīrat Yabr",24.31856,52.71939
+geonames,290742,Sir Bani Yas Island,Sir Bani Yas Island,"Al Yas,Al Yās,Jezirat Yas,Jezīrat Yas,Sir Bani Yas,Sir Bani Yas Island,Sir Banias,Sir Beni Yas,XSB,Şīr Banī Yās",24.32589,52.60128
+geonames,398683,Jazīrat al ‘Ubsayyah,Jazirat al `Ubsayyah,"Jazirat al `Ubsayyah,Jazīrat al ‘Ubsayyah",24.32667,51.63972
+geonames,292899,Al Bazm al Gharbī,Al Bazm al Gharbi,"Al Bazm al Gharbi,Al Bazm al Gharbī,Al-Bizm al-Gharbi,Bazam al Gharbi,Bazim-al-Gharbi Island,Bazm al Gharbi",24.3296,53.08828
+OSM,way/13667550,,,,24.3301358,54.4379258
+OSM,node/1171829946,Fatasi Island,جزيرة الفطيسي,جزيرة الفطيسي,24.3497709,54.3161979
+OSM,relation/13012752,Al Fuţaysī,الفطيسي,الفطيسي,24.3541434,54.3135129
+geonames,398723,Jazīrat Khumays,Jazirat Khumays,"Jazirat Khumays,Jazīrat Khumays",24.3607,51.61618
+geonames,291889,Hook Island,Hook Island,"Hook Island,Hook Islet",24.36227,52.76288
+geonames,292179,Fatā’ir,Fata'ir,"Fata'ir,Fatā’ir",24.36667,52.85
+geonames,292876,Al Fuţaysī,Al Futaysi,"Al Futaysi,Al Fuţaysī,Al-Futaisi,Fetaisi,Feteisi,Feteisī,Jabal Fataysah",24.36667,54.31667
+geonames,292591,Ḩālat al Baḩrānī,Halat al Bahrani,"Al Bahrani Island,Al Bahrāni Island,Halat al Bahrani,Halet el Bahreini,Jazirat al Bahrani,Jazīrat al Baḩrānī,Ḩālat al Baḩrānī",24.38192,54.23019
+geonames,292158,Furayjid,Furayjid,"Faraijdat,Fereijid,Furayjid,Furayjidat,Furayjidāt,North Faraydat",24.38239,51.70486
+OSM,way/101373089,Al Halah Island,جزيرة الحالة,جزيرة الحالة,24.3828438,54.2298128
+geonames,290738,South Faraydat,South Faraydat,"Faraijdat,Fereijid,South Faraydat,South Furayjidat,South Furayjidāt",24.38333,51.71667
+geonames,398734,Jazīrat Umm al Ghumaghin,Jazirat Umm al Ghumaghin,"Jazirat Umm al Ghumaghin,Jazīrat Umm al Ghumaghin",24.38392,51.57664
+OSM,way/13667615,,,,24.3865887,54.4298268
+geonames,291924,Ḩālat al Ḩayl,Halat al Hayl,"Halat Haib,Halat Hail,Halat al Hayl,Halat al-Hil,Ḥālat al-Hīl,Ḩālat al Ḩayl",24.38887,53.42088
+geonames,290561,Umm Jaşşār,Umm Jassar,"Umm Jassar,Umm Jaşşār,Umm Qasar,Umm Qassar,Umm Qaşār,Umm Qaşşār,`Umm Gassar,‘Umm Gaṣṣār",24.3914,52.77794
+geonames,399420,Qasār Mal‘ab,Qasar Mal`ab,"Qasar Mal`ab,Qasār Mal‘ab",24.39167,51.53583
+geonames,290597,Umm al Kurkum,Umm al Kurkum,"Umm Kirkum,Umm Kurkum,Umm al Kurkum",24.39273,52.76497
+OSM,way/405325080,,,,24.3984546,54.3451948
+geonames,292415,Abū as Sayāyīf,Abu as Sayayif,"Abu as Sayayif,Abū as Sayāyīf,Bu Al Sayaeef,Bu Sa'if,Bu Seyayeef,Bu al-Sayayif,Bu as Sayayif,Bū Sā’if,Bū al-Sayāyīf,Bū as Sayāyīf,Jazirat Bu Sayif,Jazīrat Bū Sāyif,abw alsyayyf,أبو السياييف",24.40603,54.39104
+OSM,relation/9204488,Ghagha Island,جزيرة غاغة,جزيرة غاغة,24.4098567,51.5513609
+OSM,node/1173981659,,Hodariyat Island,,24.4104209,54.3775314
+geonames,292095,Ghashshah,Ghashshah,"Ghashsha,Ghashshah,Jazirat Ghasha,Jazīrat Ghashā,Rashid",24.41435,52.6504
+geonames,292124,Ghāghah,Ghaghah,"Ghagha,Ghaghah,Ghara,Ghāghah,Jazair Ghagha,Jazair Ghara,Jazair Ghāra,Jezirat Ghara,Jezirat Ghára,Juzur Ghaghah,Juzur Ghāghah",24.41505,51.54964
+OSM,relation/12743928,Hudariyat Island,جزيرة الحديريات,جزيرة الحديريات,24.4213133,54.3698254
+geonames,291884,Al Ḩudayriyāt,Al Hudayriyat,"Al Hudayriyat,Al Ḩudayriyāt,Hidariat,Hudaeriyyat,Hudairiyyat,Hudayriyat,alhdyryat,الحديريات,Ḩudaeriyyāt,Ḩudayrīyāt",24.42604,54.34376
+geonames,398614,Ḩālat Masum,Halat Masum,"Halat Masum,Ḩālat Masum",24.42778,52.30778
+geonames,292125,Ghāghah,Ghaghah,"Ghagha,Ghaghah,Ghāgha,Ghāghah",24.43333,51.55
+geonames,292287,Ḩālat Dalmā al Janūbīyah,Halat Dalma al Janubiyah,"Halat Dalma al Janubiyah,Ḩālat Dalmā al Janūbīyah",24.43333,52.3
+geonames,398733,Jazīrat Khardal,Jazirat Khardal,"Jazirat Khardal,Jazīrat Khardal",24.43763,51.54526
+geonames,292967,Jazīrat Abū Z̧aby,Jazirat Abu Zaby,"Abu Dhabi,Abu Zabi,Abū Z̧abī,Jazirat Abu Zaby,Jazīrat Abū Z̧aby",24.4378,54.40779
+OSM,node/8131987589,Sas Al Nakhl Island,Sas Al Nakhl Island,جزيرة ساس النخل,24.4383983,54.5083235
+OSM,way/873221108,Sas Al Nakhl Island,جزيرة ساس النخل,جزيرة ساس النخل,24.4423684,54.5080626
+geonames,290587,Umm an Nār,Umm an Nar,"Jazirat Umm an Nar,Jazīrat Umm an Nār,Umm an Nar,Umm an Nār,`Umm al-Nar,am alnar,أم النار,‘Umm al-Nār",24.44248,54.50948
+OSM,relation/9326280,Sas Al Nakheel,ساس النخل,ساس النخل,24.4437164,54.5079303
+OSM,way/311918134,Al Seef Island,جزيرة السيف,جزيرة السيف,24.4470736,54.5842825
+OSM,way/311917953,Al Seef Island,جزيرة السيف,جزيرة السيف,24.4485379,54.5899039
+OSM,way/311916099,Al Seef Island,جزيرة السيف,جزيرة السيف,24.449996,54.5950014
+OSM,node/1026551164,Coconut Island,جزيرة جوز الهند,جزيرة جوز الهند,24.4524048,54.3222544
+geonames,292762,Al Qurayyah,Al Qurayyah,"Al Qurayyah,alqryt,القرية",24.45373,54.56
+OSM,way/13664282,Horseshoe Island,جزيرة حدوة الحصان,جزيرة حدوة الحصان,24.4589705,54.2936269
+OSM,way/161333516,Al Sammaliyyah Island,جزيرة السمالية,جزيرة السمالية,24.4598036,54.5295172
+geonames,292785,Al Mubarraz,Al Mubarraz,"Al Mubarraz,Halat al Mubarras,Halat al Mubarraz,Hālat al Mubarras,Ḩālat al Mubarraz",24.46112,53.37326
+geonames,389390,Jazīrat as Sammālīyah,Jazirat as Sammaliyah,"As Sammaliyah,As Sammālīyah,Jazirat as Sammaliyah,Jazīrat as Sammālīyah,jzyrt alsmalyt,جزيرة السمالية",24.46193,54.53069
+OSM,node/1244058694,As Sammaliyyah Island,As Sammaliyyah Island,,24.4649938,54.5239791
+geonames,291312,Mushayrib,Mushayrib,Mushayrib,24.46667,54.41667
+OSM,relation/13027505,Jazīrat Abū Z̧aby,جزيرة أبو ظبي,جزيرة أبو ظبي,24.4688194,54.3940719
+OSM,relation/6039796,Um Yifeenah Island,جزيرة أم يفينة,جزيرة أم يفينة,24.4724479,54.4546712
+OSM,way/24293803,Bilrimaid Island,جزيرة بالرميد,جزيرة بالرميد,24.4788113,54.4798457
+OSM,way/13648996,Dalma Island,دلما,دلما,24.4804907,52.3107993
+OSM,relation/2535665,Yas Island,جزيرة ياس,جزيرة ياس,24.4864167,54.6030019
+geonames,290571,Jazīrat Umm Yafīnah,Jazirat Umm Yafinah,"Jazirat Umm Yafinah,Jazīrat Umm Yafīnah,Umm Fiyin,Umm Fīyīn,jzyrt am yfynt,جزيرة أم يفينة",24.48752,54.45009
+OSM,way/966638363,,,,24.4894613,51.7333384
+OSM,way/394349907,Zeraa Island,جزيرة زِرعة,جزيرة زِرعة,24.4897632,54.5392443
+OSM,node/8131987605,Al 'Oud Street,شارع العُود,شارع العُود,24.4916399,54.4106054
+OSM,way/873221106,Al Reem Island,جزيرة الريم,جزيرة الريم,24.4923517,54.4081898
+OSM,relation/4249069,Al Reem Island,جزيرة الريم,جزيرة الريم,24.4925022,54.4086852
+geonames,8052376,Jazīrat Bū ash Sha‘ūm,Jazirat Bu ash Sha`um,"Jazirat Bu ash Sha`um,Jazīrat Bū ash Sha‘ūm,جزيرة بو الشعوم",24.49308,54.40819
+OSM,node/8131987578,Yas Island,جزيرة ياس,جزيرة ياس,24.4940223,54.6073721
+geonames,10227711,Yas Island,Yas Island,"AYM,Ile de Yas,Yas Island,Île de Yas",24.49784,54.60556
+geonames,8052380,Al Lulu Island,Al Lulu Island,"Al Lulu Island,Jazirat al Lu'lu',Jazīrat al Lu’lu’,jzyrt allwlw,جزيرة اللؤلؤ",24.49916,54.34387
+geonames,8052379,Jazīrat aş Şuwwah,Jazirat as Suwwah,"Jazirat as Suwwah,Jazīrat aş Şuwwah,jzyrt alswt,جزيرة الصوة",24.49957,54.38989
+geonames,292370,Bū Kurūh,Bu Kuruh,"Bu Karu,Bu Kru,Bu Krū,Bu Kuruh,Bū Karū,Bū Kurūh",24.5,54.48333
+OSM,way/100413513,Al Lulu Island,جزيرة اللُّولو,جزيرة اللُّولو,24.5001647,54.3451476
+OSM,way/873221062,Al Maryah Island,جزيرة المارية,جزيرة المارية,24.5020689,54.3907921
+OSM,relation/5990574,Al Maryah Island,جزيرة المارية,جزيرة المارية,24.5021628,54.3908513
+OSM,node/8131987606,Al Maryah Island,جزيرة المارية,جزيرة المارية,24.5024964,54.3904352
+OSM,node/5015537440,Al Maryah Island,جزيرة المارية,جزيرة المارية,24.5039656,54.3900865
+OSM,way/24209166,,Moon Island Resort,,24.5042244,54.450273
+geonames,292212,Yusrah Fāhid,Yusrah Fahid,"Fahad Hasarrah,Fāhad Hasarrah,Gesairet Fahid,Gesairet Fāhid,Jazirat Fahad,Jazirat Fahd,Jazirat Fahid,Jazīrat Fahd,Jazīrat Fāhid,Jeseirat Fahid,Yusrah Fahid,Yusrah Fāhid,ysrt fahd,يسرة فاهد",24.50944,54.55064
+geonames,292782,Al Muhayyimāt,Al Muhayyimat,"Al Mahayimat,Al Muhayyimat,Al Muhayyimāt,Al-Mehayyimat,Jaza'ir Muhayyimat,Jazair Mahayimat,Jaza’ir Muhayyimāt,Miyamat Entin,Miyamāt Entin,Muhaiyimain,Muhayimat,Muhayimāt,Muhayyimayn",24.51,51.72223
+OSM,way/24293925,Bisrat Fahid Island,جزيرة بسرة فهد,جزيرة بسرة فهد,24.5108041,54.5456463
+geonames,292288,Dalmā Island,Dalma Island,"Dalma,Dalma Island,Dalmā,Jazirat Dalmah,Jazīrat Dalmah,ZDY",24.51099,52.30893
+OSM,way/13649095,Mubarraz Island,Mubarraz Island,,24.5218528,53.3394653
+OSM,node/1246674636,Bisrat Fahd Island,Bisrat Fahd Island,,24.5218843,54.4976573
+OSM,relation/13013622,Al Jubail Island,جزيرة الجبيل,جزيرة الجبيل,24.5252425,54.4958038
+geonames,292658,Jazīrat as Sa‘dīyāt,Jazirat as Sa`diyat,"As Sa`diyat,As Sa‘dīyāt,Jazirat as Sa`diyat,Jazīrat as Sa‘dīyāt,Sa'diyyat,Sa`diyat,Sa‘dīyāt,Sa’diyyāt,جزيرة السعديات",24.53158,54.443
+geonames,11048856,Saadiyat Island,Saadiyat Island,,24.53198,54.43923
+OSM,way/64625960,Ramhan Island,جزيرة رمحان,جزيرة رمحان,24.5356455,54.525825
+geonames,292390,Jazīrat al Jubayl,Jazirat al Jubayl,"Bu Hayl,Bu Heil,Bū Ḥeil,Bū Ḩayl,Hayl,Jazirat al Jubayl,Jazīrat al Jubayl,Jubayl,jzyrt aljbyl,جزيرة الجبيل,Ḩayl",24.53583,54.48472
+geonames,291086,Jazīrat Ramḩān,Jazirat Ramhan,"Jazirat Ramhan,Jazīrat Ramḩān,Ramhan,Ramḩān,jzyrt rmhan,جزيرة رمحان",24.53778,54.52419
+OSM,way/243522347,,,,24.5390128,54.4195231
+OSM,relation/9518900,Saadiyat Island,جزيرة السعديات,جزيرة السعديات,24.5457424,54.4352792
+geonames,292322,Camp Island,Camp Island,Camp Island,24.54867,54.54659
+geonames,291059,Ra’s Siyād,Ra's Siyad,"Ra's Seyad,Ra's Siyad,Ra’s Seyād,Ra’s Siyād",24.55,51.65
+geonames,291927,Ḩayl,Hayl,"Hayl,Ḩayl",24.56667,54.48333
+geonames,290606,Umm al Birak,Umm al Birak,"Umm al Barak,Umm al Barāk,Umm al Birak,Umm al-Berak",24.56699,54.58394
+OSM,node/1244058831,Bel Ghailem Island,جزيرة بالغيلم,جزيرة بالغيلم,24.5674941,54.5455923
+OSM,way/64626400,Bel Ghelam Island,جزيرة بالغيلم,جزيرة بالغيلم,24.5678482,54.5532436
+geonames,292483,Jazīrat Bil Ghaylam,Jazirat Bil Ghaylam,"Bel Ghailam,Bil Ghaylam,Bil Ghilm,Jazirat Bil Ghaylam,Jazīrat Bil Ghaylam",24.56801,54.54462
+OSM,relation/9204489,Qaffay Island,جزيرة قفاي,جزيرة قفاي,24.5846129,51.7209058
+geonames,292771,Al Qaffāy,Al Qaffay,"Al Qafay,Al Qaffay,Al Qaffāy,Al Qafāy,Jazirat Gaffai,Jazirat Kafai,Jazirat al Qaffay,Jazīrat Gaffai,Jazīrat Kafāi,Jazīrat al Qaffāy,Jezirat Kafai,Jezirat Kafái,Kafay,Kafāy,Qaffai",24.58535,51.7228
+OSM,node/1246687912,Jazīrat Ra’s Ghurāb,جزيرة رأس غراب,جزيرة رأس غراب,24.6188069,54.5339056
+geonames,292872,Jazīrat Ra’s Ghurāb,Jazirat Ra's Ghurab,"Al Ghurab,Al Ghurāb,Ghrab,Ghrāb,Ghurab,Ghurāb,Jazirat Ra's Ghurab,Jazīrat Ra’s Ghurāb",24.61941,54.53568
+OSM,relation/13024214,Al Aliah Island,جزيرة العالية,جزيرة العالية,24.6205353,54.5288041
+OSM,relation/13012606,Al Heel Island,جزيرة الحيل,جزيرة الحيل,24.6373583,54.5861896
+geonames,291552,Makāsib,Makasib,"Al-Makasib,Al-Makāsib,Jazirat al Makasib,Jazīrat al Makāsib,Machasib,Machāsib,Makasib,Makhasib,Makhāsib,Makāsib",24.66369,51.82204
+geonames,292743,Jazīrat Ḩayl,Jazirat Hayl,"Al Weheil,Al Weḥeil,Al Wuhayl,Al Wuḩayl,Jazirat Hail,Jazirat Hayl,Jazīrat Ḩayl",24.66443,54.58178
+OSM,way/115740298,,,,24.6701296,54.647143
+OSM,relation/14534198,,,,24.7098711,54.6236892
+OSM,way/1091372472,,,,24.7180205,54.6132096
+geonames,291974,Ḩālat Ḩanyūrah,Halat Hanyurah,"Halat Hanyurah,Hanjurah,Ḩanjūrah,Ḩālat Ḩanyūrah",24.7259,54.64596
+OSM,way/13649275,,Arzanah,,24.7885157,52.5601373
+geonames,292683,Arzanah,Arzanah,"Arzana,Arzanah,Jazirat `Ardanah,Jazīrat ‘Arḑānah",24.79389,52.56167
+geonames,292114,Jazīrat aţ Ţawīlah,Jazirat at Tawilah,"Ghanadah,Ghanadha,Ghanādha,Ghanāḑah,Jazirat at Tawilah,Jazīrat aţ Ţawīlah",24.82442,54.74449
+OSM,way/13649170,Zarkoh Island,جزيرة زركوه,جزيرة زركوه,24.8791479,53.0753079
+geonames,290410,Zirkūh,Zirkuh,"Az Zarqa',Az Zarqā’,Jazirat Zarka,Jazirat Zirku,Jaztal Zarakkuh,Jaztal Zarakkūh,Jazīrat Zarkā,Jazīrat Zīrkū,Jezirat Zirko,Jezīrat Zirko,Zarakkawh,Zarakkuh,Zarqa,Zirko Island,Zirkuh,Zirkūh",24.88417,53.07222
+geonames,291172,Qarnayn,Qarnayn,"Al Qarnain,Al Qarnayn,Jazirat al Qarnayn,Jazīrat al Qarnayn,Jezirat Qarnain,Karnain Island,Qarnayn,Qarnein",24.93528,52.84972
+geonames,292259,Dayyīnah,Dayyinah,"Daiyina,Daiyinah Island,Dayyina,Dayyinah,Dayyīnah,Jazirat Diyina,Jazīrat Diyina,Jezirat Daiyinah",24.95917,52.39972
+geonames,8469902,The Palm Jebel Ali,The Palm Jebel Ali,,25.00699,54.98823
+OSM,relation/10016129,,,,25.0384455,55.053709
+OSM,relation/6189034,,,,25.0813073,55.1354446
+OSM,relation/13275811,,,,25.0922536,55.1305659
+geonames,8469746,The Palm - Jumeirah,The Palm - Jumeirah,The Palm - Jumeirah,25.11499,55.13745
+OSM,relation/1297972,Palm Jumeirah,نخلة الجميرة,نخلة الجميرة,25.1193724,55.1307418
+OSM,relation/9290758,Palm Jumeirah - The Crescent,نخلة جميرا - الهلال,نخلة جميرا - الهلال,25.1277092,55.1515757
+OSM,way/13649085,Das Island,جزيرة داس,جزيرة داس,25.1404286,52.8727958
+geonames,292274,Dās,Das,"Das,Dās",25.15336,52.87505
+OSM,way/333653372,,,,25.1877225,55.3285941
+geonames,11886916,New Mexico,New Mexico,,25.20162,55.15157
+OSM,relation/8402263,Mexico,المكسيك,المكسيك,25.2019245,55.1542372
+geonames,11886917,Mexico,Mexico,,25.20209,55.15394
+geonames,11886909,California,California,,25.20309,55.14327
+OSM,relation/8360400,,Arizona,,25.2032267,55.1489747
+geonames,11886912,Texas,Texas,,25.20456,55.15056
+geonames,11886922,Rio de Janeiro,Rio de Janeiro,,25.20892,55.16795
+OSM,relation/2695811,Lesotho,ليسوتو,ليسوتو,25.2148141,55.1830214
+OSM,relation/6834319,Ivory Coast,ساحل العاج,ساحل العاج,25.2150319,55.1715078
+OSM,relation/2695812,Mauritania,موريتانيا,موريتانيا,25.2153771,55.1678001
+geonames,11886914,Antarctica,Antarctica,,25.21546,55.1904
+OSM,relation/9807652,Jumeirah Bay Island,جزيرة خليج الجميرا,جزيرة خليج الجميرا,25.2155166,55.2329128
+OSM,relation/2695813,Morocco,المغرب,المغرب,25.2164355,55.1656007
+OSM,relation/2695815,Niger,النيجر,النيجر,25.2171234,55.1707586
+OSM,relation/2695809,Mali,مالي,مالي,25.2174367,55.1686444
+OSM,relation/2697712,Congo,كونغو,كونغو,25.2175125,55.1771374
+OSM,relation/2697711,Central African Republic,جمهورية أفريقيا الوسطى,جمهورية أفريقيا الوسطى,25.2183563,55.1752804
+geonames,11886910,Ireland,Ireland,,25.22138,55.15846
+geonames,8469718,The World,The World,"Duenya Yapay Takimadalari,Dzuzur al-Alam,Dünya Yapay Takımadaları,Džuzur al-Álam,El Mon,El Món,La Mondo,Pasaulis,Quan gao The Gioi,Quần đảo Thế Giới,Svetut,The World,Vaerlden,Vilag-szigetek,Világ-szigetek,Världen,deo woldeu,dexa weild,jhan,shi jie qun dao,ulakam,Светът,העולם,جزائر عالم,جزر العالم,جهان,உலகம்,ദി വേൾഡ്,เดอะเวิลด์,მსოფლიოს კუნძულები,世界群島,더 월드",25.22231,55.17181
+geonames,11886911,United Kingdom,United Kingdom,,25.22324,55.15977
+OSM,relation/2696849,Syria,سوريا,سوريا,25.2262971,55.1679727
+OSM,relation/2696850,Türkiye,تركيا,تركيا,25.2273636,55.1668499
+geonames,11886921,Western Austrailia,Western Austrailia,,25.23004,55.1905
+OSM,way/10504180,Sir Bu Nuair Island,جزیرة صیر بو نعیر,جزيرة صير بو نعير,25.2316479,54.2192302
+geonames,11886920,Southern Austrailia,Southern Austrailia,,25.23268,55.19627
+geonames,290741,Şīr Bū Nu‘ayr,Sir Bu Nu'ayr,"Jazirat Siri Bu Naybar,Jazīrat Sīrī Bū Naybar,Jezirat Sir Bu Na`air,Jezirat Sir Bu Na‘air,Sir Abu Nu`air,Sir Abu Nu`ayr,Sir Abu Nu‘air,Sir Bu Nu`air,Sir Bu Nu`ayr,Sir bu Na`air Island,Sīr bu Na‘air Island,Şīr Abū Nu‘ayr,Şīr Bū Nu‘ayr,Ṣīr Bū Nu‘air",25.23305,54.2181
+OSM,relation/6843778,Bur Dubai,بر دبي,بر دبي,25.2356092,55.2871406
+geonames,11886919,Northern Territory,Northern Territory,,25.23718,55.18809
+geonames,11886918,Queensland,Queensland,,25.23792,55.19369
+geonames,11886915,New South Wales,New South Wales,,25.23992,55.19986
+OSM,relation/9852284,Pearl Jumeirah,لؤلؤة الجميرا,لؤلؤة الجميرا,25.2445165,55.258424
+geonames,11886913,Japan,Japan,,25.24462,55.18425
+OSM,way/395307466,Crescent Moon Island,جزيرة القمر,جزيرة القمر,25.306837,54.6584325
+geonames,415000,Jazīrat al Ḩibāb,Jazirat al Hibab,"Jazirat al Hibab,Jazīrat al Ḩibāb",25.31556,55.36139
+geonames,8469606,The Palm - Deira,The Palm - Deira,The Palm - Deira,25.31688,55.30604
+OSM,relation/8122161,Deira Island,نخلة ديرة,نخلة ديرة,25.31793,55.3063894
+OSM,way/148178859,,,,25.3335721,55.3786642
+geonames,290743,Sīrat al Khawr,Sirat al Khawr,"Sirat al Khawr,Sīrat al Khawr",25.35326,56.37784
+OSM,relation/9831163,,,,25.3595465,55.2316857
+geonames,292594,Jazīrat Badīyah,Jazirat Badiyah,"Jazirat Badiyah,Jazīrat Badīyah",25.42865,56.36835
+geonames,290431,Jazīrat Zawrah,Jazirat Zawrah,"Al-Zura,Al-Zūrā,Jazirat Zawrah,Jazīrat Zawrah,Zora Island",25.43778,55.46472
+geonames,292081,Jazīrat al Ghubbah,Jazirat al Ghubbah,"Jazirat al Ghubbah,Jazīrat al Ghubbah",25.49218,56.36406
+geonames,8052086,Jazīrat al Aki‘āb,Jazirat al Aki`ab,"Jazirat al Aki`ab,Jazīrat al Aki‘āb,جزيرة الأكعاب",25.54569,55.58337
+geonames,8051690,Al Quram,Al Quram,"Al Quram,alqrm,القرم",25.54574,55.60049
+OSM,node/1778287602,Jazirat Al Keabe,Jazirat Al Keabe,,25.5458532,55.5825382
+geonames,8042643,As Saw,As Saw,"As Saw,alsw,السو",25.54818,55.56738
+OSM,node/1778287708,Al Sow,Al Sow,,25.5490282,55.5692345
+geonames,8051689,Al Ḩumayḑī,Al Humaydi,"Al Humaydi,Al Ḩumayḑī,alhmydy,الحميضي",25.5563,55.60935
+OSM,node/1778288848,Al Ḩumayḑī,الحميضي,الحميضي,25.5580881,55.6094891
+geonames,8051691,Al Shuwayrīyah,Al Shuwayriyah,"Al Shuwayriyah,Al Shuwayrīyah,alshwyryt,الشويرية",25.56116,55.59133
+OSM,node/1778287797,Al Chewria,Al Chewria,,25.5613402,55.5920654
+geonames,292080,Jazīrat al Ghallah,Jazirat al Ghallah,"Jazirat Ghallah,Jazirat al Ghallah,Jazirat al Ghubbah,Jazīrat Ghallah,Jazīrat al Ghallah,Jazīrat al Ghubbah,jzyrt alghlt,جزيرة الغلة",25.5618,55.57818
+OSM,relation/13009285,Jazirat Al Ghallah,جزيرة الغلة,جزيرة الغلة,25.5666487,55.5779273
+geonames,8042645,Al Ḩarmalah,Al Harmalah,"Al Harmalah,Al Ḩarmalah,alhrmlt,الحرملة",25.57511,55.59066
+OSM,node/1778295416,Djazira Al Harmala,جزيرة الحرملة,جزيرة الحرملة,25.5751994,55.5904347
+OSM,way/117319368,,,,25.5790285,55.6137545
+OSM,way/117319372,,,,25.5863669,55.6206612
+geonames,292648,Jazīrat as Sīnīyah,Jazirat as Siniyah,"Al-Siniyyah,Al-Sīniyyah,As Sīnīyah,AsSiniyah,Jazirat Mallah,Jazirat Siniyah,Jazirat as Siniyah,Jazīrat Mallāh,Jazīrat Sīnīyah,Jazīrat as Sīnīyah,jzyrt alsynyt,جزيرة السينية",25.6043,55.62768
+OSM,node/1778295412,Jazirat Al Sinniyah,Jazirat Al Sinniyah,,25.6057225,55.6082982
+geonames,8051658,Al Binaydar,Al Binaydar,"Al Binaydar,albnydr,البنيدر",25.61947,55.68465
+OSM,relation/13023779,Jazīrat as Sīnīyah,جزيرة السينية,جزيرة السينية,25.6218794,55.6504549
+geonames,8051657,Al Ḩālah,Al Halah,"Al Halah,Al Ḩālah,alhalt,الحالة",25.63016,55.68544
+OSM,way/309790489,,جزيرة المرجان,جزيرة المرجان,25.6785127,55.7458079
+OSM,way/329953258,,,,25.6875475,55.7553921
+OSM,way/231692724,,,,25.6885585,55.7383581
+geonames,291980,Al Jazirah Al Hamra,Al Jazirah Al Hamra,"Al Jazirah Al Hamra,Al Jazirah al Hamra',Al Jazīrah al Ḩamrā’,Jazirat al Hamra',Jazirat az Za'ab,Jazīrat al Ḩamrā’,Jazīrat az Za‘āb,Jezirat al Hamra,RHR",25.70361,55.79556
+OSM,way/235987110,,,,25.7210696,55.8310724
+OSM,way/874795156,Mina Al arab,ميناء العرب,ميناء العرب,25.7221579,55.8354233
+OSM,way/415406190,,,,25.7234825,55.843701
+geonames,291127,Jazīrat Qurmah,Jazirat Qurmah,"Jazirat Qurmah,Jazīrat Qurmah",25.76667,55.95
+geonames,291879,Jazīrat Ḩulaylah,Jazirat Hulaylah,"Jazirat Hulaylah,Jazīrat Ḩulaylah",25.91667,56.03333
