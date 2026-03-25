@@ -129,7 +129,7 @@ Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/sprea
 | Tues, 31 March 3:20PM-6:00PM |  |  |
 | Thurs, 2 April 3:20PM-4:35PM | <br> -work on Assignment 2 | <br> -questions regarding Assignment 2 | 
 
-**EXTRA CREDIT OPPORTUNITY: EcStatic Magic: Making Static Sites for DH Projects, Tues, 31 March, 1:30PM-3:00PM Eastern time[remote, offered by NYUNY](https://nyu.libcal.com/event/16510755)** 
+**EXTRA CREDIT OPPORTUNITY: EcStatic Magic: Making Static Sites for DH Projects, Tues, 31 March, 1:30PM-3:00PM Eastern time, 1 or 2 points on an assignment [remote, offered by NYUNY](https://nyu.libcal.com/event/16510755). See guidelines for extra credit [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/)** 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
