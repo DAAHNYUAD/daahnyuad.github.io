@@ -92,7 +92,7 @@ Due Date: 25 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 10 March, total 10% of final grade, this part being 5%.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 31 March, total 10% of final grade, this part being 5%.
 {: .notice}
 
 **Ramadan begins around here**
