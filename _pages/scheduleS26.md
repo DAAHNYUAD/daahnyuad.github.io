@@ -122,15 +122,16 @@ Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/sprea
 | Tues, 24 March 3:20PM-6:00PM | <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | -agentic coding of OSM/GeoNames street data and map making using Leaflet |
 | Thurs, 26 March 3:20PM-4:35PM |  -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Discussion and continuation of geospatial coding in VSCode | 
 
+**EXTRA CREDIT OPPORTUNITY: EcStatic Magic: Making Static Sites for DH Projects, Tues, 31 March, 1:30PM-3:00PM Eastern time, 1 or 2 points on an assignment [remote, offered by NYUNY](https://nyu.libcal.com/event/16510755). See guidelines for extra credit [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/)**
+{: .notice} 
+
 ### Week 9 More Maps
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 31 March 3:20PM-6:00PM |  |  |
-| Thurs, 2 April 3:20PM-4:35PM | <br> -work on Assignment 2 | <br> -questions regarding Assignment 2 | 
+| Tues, 31 March 3:20PM-6:00PM |  <br> - make an account at [Recogito](https://recogito.pelagios.org/signup) and share your username  <br> -About [Socotra](https://en.wikipedia.org/wiki/Socotra) <br> -[What is a Gazetteer? (slides)](https://docs.google.com/presentation/d/1mKDnnlUSgma24tZGBbHTD5aCzYYtCsPL0sggBCljClw/edit?usp=sharing) | <br> -spatial close reading of the section on Socotra in "[Southern Arabia](https://www.gutenberg.org/ebooks/21569)" by [J. Theodore Bent](https://en.wikipedia.org/wiki/James_Theodore_Bent) and Mrs. Bent |
+| Thurs, 2 April 3:20PM-4:35PM | <br> -What is OSM? <br> -What is the Overpass API? | <br> -editing, querying & visualizing [Overpass Turbo]( https://overpass-turbo.eu/) with the help of Gemini  <br> -Notebook: “Querying and Visualizing OSM data with R” (posit.cloud) <br> -Distant coding with [UAE data](https://download.geonames.org/export/dump/) (geonames) and leaflet in R | 
 
-**EXTRA CREDIT OPPORTUNITY: EcStatic Magic: Making Static Sites for DH Projects, Tues, 31 March, 1:30PM-3:00PM Eastern time, 1 or 2 points on an assignment [remote, offered by NYUNY](https://nyu.libcal.com/event/16510755). See guidelines for extra credit [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/)**
-{: .notice} 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
