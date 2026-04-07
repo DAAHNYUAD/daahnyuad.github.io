@@ -132,6 +132,8 @@ Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/sprea
 | Tues, 31 March 3:20PM-6:00PM |  <br> - make an account at [Recogito](https://recogito.pelagios.org/signup) and share your username  <br> -About [Socotra](https://en.wikipedia.org/wiki/Socotra) <br> -[What is a Gazetteer? (slides)](https://docs.google.com/presentation/d/1mKDnnlUSgma24tZGBbHTD5aCzYYtCsPL0sggBCljClw/edit?usp=sharing) | <br> -spatial close reading of the section on Socotra in "[Southern Arabia](https://www.gutenberg.org/ebooks/21569)" by [J. Theodore Bent](https://en.wikipedia.org/wiki/James_Theodore_Bent) and Mrs. Bent |
 | Thurs, 2 April 3:20PM-4:35PM | <br> -What is OSM? <br> -What is the Overpass API? | <br> -editing, querying & visualizing [Overpass Turbo]( https://overpass-turbo.eu/) with the help of Gemini  <br> -Notebook: “Querying and Visualizing OSM data with R” (posit.cloud) <br> -Distant coding with [UAE data](https://download.geonames.org/export/dump/) (geonames) and leaflet in R | 
 
+**EXTRA CREDIT OPPORTUNITY: Digital Concrete: Tools for Making Visual Poetry, Tues, 7 April, noon-1pm Eastern time, 1 or 2 points on an assignment [remote, offered by Toronto Metropolitan University's Centre for Digital Humanities](https://cdh.rula.info/newsletter/) and [register here](https://torontomu.zoom.us/meeting/register/3ols7PiqToWWcLrB4GX1Fw#/registration). See guidelines for extra credit [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/)**
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
