@@ -61,7 +61,7 @@ Once you have downloaded the data and gotten the link from Step 3, you are done 
 
 You will have two datasets to visualize in this step. The first one has been automatically generated from the excerpt mentioned above. I have used a similar script for geographical entity recognition using a library called `spaCy` and geocoding with `geopy` that I used to do that for the "I, the Road" exercise. That file can be found [here](https://raw.githubusercontent.com/DAAHNYUAD/daahnyuad.github.io/refs/heads/master/assets/datasets/Bents_Hadhramout_places_geocoded.csv) in \assets\datasets. 
 
-For step 4, you should use the notebook in posit.cloud entitled "". The notebook employ the `leaflet` package in R to create an html map with two layers. It also performs a very slight distortion of the points on the map to prevent overlap (occultation) to make the next step easier.
+For step 4, you should use the notebook in posit.cloud entitled "Interactive Leaflet Map with Two Clickable Layers". The notebook employ the `leaflet` package in R to create an html map with two layers. It also performs a very slight distortion of the points on the map to prevent overlap (occultation) to make the next step easier.
 
 Once you have saved an html file to your satisfaction using the notebook, download it out of posit.cloud. 
 
