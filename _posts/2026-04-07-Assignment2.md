@@ -68,21 +68,19 @@ In this last step of the exercise, you can compare the visual results and the st
 
 ## Guiding Questions (you do not need to answer all these questions):
 
-- **Background & Expectations**: What did you know about your subject before beginning analysis? What hypotheses did you have about the language contained in the text?
+- **Background & Expectations**: 
 
-- **Computational Insights**: What does computational analysis reveal that a linear read would not? Would reading all texts cover-to-cover have been feasible in your timeline? What interesting patterns emerged?
+- **Computational Insights**: 
 
-- **Comparative Insights**: What did Voyant Tools allow you to do that the Rmd Notebooks did not? How was working with the two methods different? similar?
+- **Comparative Insights**: 
 
-- **Trends & Surprises**: What trends can you identify across your corpus? Were there unexpected findings? How do your results compare to your initial hypotheses?
+- **Trends & Surprises**: 
 
-- **Methodological Questions**: If you ran your analysis between Voyant and Rmd Notebooks, did you get consistent results? Why or why not? How do different visualization methods represent the data differently? Were there limitations in the tools or approaches you used? What risks are there in reading this way (draw on Underwood)?
+- **Methodological Questions**: 
 
-- **Scope & Scale**: How limiting (or enabling) was the constraint of comparing five or more texts? What would you analyze differently with more or fewer texts?
+- **Scope & Scale**: 
 
-- **Transferability**: How might you use this workflow in other courses, disciplines, or projects like a capstone?
-
-- **For Choice D**: If you worked on texts not in English, what challenges did you face?
+- **Transferability**: 
 
 
 ## Assessment
