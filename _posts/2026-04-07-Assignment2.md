@@ -65,6 +65,11 @@ For step 4, you should use the notebook in posit.cloud entitled "". The notebook
 
 Once you have saved an html file to your satisfaction using the notebook, download it out of posit.cloud. 
 
+## **Step 5**: Pushing your html map to Github Pages
+
+In the Github web-based interface, create a new repository in your Github account used for this course. You can see the example in https://github.com/DAAHNYUAD/ of one called "hostedmaps." In Github desktop, 
+
+
 The last step of visualization is to push it to your Github page. ...
 
 ## **Step 6**: Conduct your Analysis 
