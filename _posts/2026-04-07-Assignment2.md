@@ -12,7 +12,7 @@ tags:
 
 ## DRAFT Guidelines for the Assignment:  
 
-The Mapping Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with attempting to annotate "Souther Arabia" by Mr and Mrs Theodore Bent and to automatically geocode "1, the Road" by Ross Goodwin. This assignment can be done *alone* or *in pairs*.
+The Mapping Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with attempting to annotate "Southern Arabia" by Mr and Mrs Theodore Bent and to automatically geocode "1, the Road" by Ross Goodwin. This assignment can be done *alone* or *in pairs*.
 
 
 - **Format**: Individual or pairs (maximum 2 people)
@@ -25,6 +25,8 @@ This exercise has three main elements:
 1. **Manual Annotation with Recogito**: You will be provided with a text to annotate manually in Recogito. 
 2. **Supplementary Annotation**: using other digital means--Google Maps, OSM, etc., you will complete to whatever extent is possible your geo-annotation.
 3. **Comparison with Automated Geocoding**: You will be provided with a Assemble your evidence, analysis, and visuals in a web-published essay in the form of a post that tells a coherent story about your findings. Make sure that one of your Voyant Tools visualization is a live widget embedded in your post. 
+
+> Manual geocoding is essentially human interpretation of places and matching them with possible geographic places using contextual clues. Automatic geocoding is based on a machine identifying what possible place names are and matching those against databases without contextualization. 
 
 ## **Step 1**: The Text and its Author
 
@@ -59,7 +61,7 @@ The script works with the leaflet package in R to create an html map with two la
 
 Once you have saved an html file to your satisfaction using the notebook, download it out of posit.cloud. 
 
-The last step of visualization is to push it to your Github page. 
+The last step of visualization is to push it to your Github page. ...
 
 ## **Step 6**: Conduct your Analysis 
 
@@ -68,34 +70,35 @@ In this last step of the exercise, you can compare the visual results and the st
 
 ## Guiding Questions (you do not need to answer all these questions):
 
-- **Background & Expectations**: 
+**Observations**: 
+- Do you observe any patterns when comparing the manually and automatically geocoded locations?
+- Do the two methods produce similar coordinates or mappings?
+- Where do the largest discrepancies occur (distance, region, or level of precision)?
 
-- **Computational Insights**: 
+**Agreement/disagreement of the two methods**:
+- Identify one or two cases where manual and automatic geocoding differ significantly. What is happening in those examples?
+- Are mismatches random, or do they follow patterns (e.g., ambiguous place names, incomplete data)?
+- Are certain types of locations (cities, regions, historical places) more prone to disagreement? 
 
-- **Comparative Insights**: 
+**Data and Sensitivity**: 
+- How does the quality or completeness of the original place names affect each method? Do you remember what happened when we added on the state name for the locations in "1, the Road"? 
+- What happens when place names are: misspelled, come from a different language, are historical or vague (e.g., “near Cairo”).
 
-- **Trends & Surprises**: 
+**Interpretation vs automation**: 
+- What kinds of decisions are humans making in manual geocoding that automated systems cannot easily replicate?
+- What assumptions does the automated system make when matching place names to coordinates?
+- How does each method handle ambiguity (e.g., multiple places with the same name)?
 
-- **Methodological Questions**: 
-
-- **Scope & Scale**: 
-
-- **Transferability**: 
-
+**Critical Questions**: 
+- What kinds of places or regions might be systematically misrepresented by automated geocoding systems?
+- How might linguistic, historical, or cultural variation affect geocoding accuracy?
+- What does this comparison reveal about the limits of computational approaches to spatial data?
 
 ## Assessment
 
 Your work will be assessed according to the following criteria located [here](https://djwrisley.github.io/RLAC/rubrics/).
 
-## Tips for Success
-
-**Writing**: Use tools like [Markdown Live Preview](https://markdownlivepreview.com/) and [Hemingway App](https://hemingwayapp.com/) to refine your prose for clarity and legibility, without AI. Keep the [F-shape principle](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) for web writing in mind—readers scan top-to-bottom and left-to-right, so structure your argument visibly.
-
-**Visualization**: Make your screenshots speak. Use clear captions that explain what readers are seeing and why it matters to your argument. Your visualizations should support and enhance your analysis, not merely decorate it or fill space. Feel free to annotate on top of the visuals (like putting arrows or circles).
-
-**Collaboration**: If working in pairs, you may submit a single essay that links to both group members’ sites. Include a brief statement describing each person’s unique contribution to the work.
-
-**Publishing**: Post your assignment to your course site as a post so instructors and classmates can read and engage with your work.
+## Marking your work as complete
 
 It is fine to publish your assignment iteratively, but when you finish the final version of your assignment, write at the bottom of it “READY FOR GRADING”.
 
