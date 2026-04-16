@@ -106,6 +106,12 @@ In this last step of the exercise, you can compare the visual results and the st
 - How might linguistic, historical, or cultural variation affect geocoding accuracy?
 - What does this comparison reveal about the limits of computational approaches to spatial data?
 
+## To include in your assignment
+
+- analysis of the process and product responding to some of the guidin questions above
+- captioned screenshots of relevant issues in Recogito, the RMarkdown notebook or the mapping
+- an iframe of the two layer map created with an appropriate caption
+
 ## Assessment
 
 Your work will be assessed according to the following criteria located [here](https://djwrisley.github.io/RLAC/rubrics/).
