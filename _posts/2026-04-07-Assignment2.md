@@ -20,7 +20,7 @@ The Mapping Assignment, otherwise known as Assignment 2, will be completed in on
 
 The text you will annotate in Recogito contains more of the text of _Southern Arabia_ by Theodore and Mabel Bent (Project Gutenberg text #21569). This is the same text for which we annotated the section about the Yemeni island of Socotra. The passage in question will be the first half of the travel through the Hadr al Mot (the Hadhramout).
 
-_Southern Arabia_ reflects a late 19th-century imperial gaze that portrays South Arabian societies in an exotic light, making reference to a number of Western-centric cultural references. Although it is found in Project Gutenberg as a digital text, their perspectives raises questions about the representativeness of its ethnographic and historical claims. Despite its biases, the text provides a rich example for testing spatial tagging while critically examining how computational tools surface—and sometimes reproduce—colonial viewpoints.
+_Southern Arabia_ reflects a late 19th-century imperial gaze that portrays South Arabian societies in an exotic light, making reference to a number of Western-centric cultural references. The text is found in Project Gutenberg as a digital text, but the authors' perspectives raise questions about the representativeness of its ethnographic and historical claims. Despite its biases, the text provides a rich example for testing spatial tagging while critically examining how computational tools surface—and sometimes reproduce—colonial viewpoints.
 
 The portion of the text you will use is located [here](https://raw.githubusercontent.com/DAAHNYUAD/daahnyuad.github.io/refs/heads/master/assets/texts/Bents_Hadhramout.txt).
 
@@ -59,9 +59,9 @@ Once you have downloaded the data and gotten the link from Step 3, you are done 
 
 ## **Step 4**: Visualizing the Data
 
-You will have two datasets to visualize in this step. The first one has been automatically generated from the excerpt mentioned above. I have used a similar script for geographical entity recognition that I used to do that for the "I, the Road" exercise. That file can be found [here]() in \assets\datasets. 
+You will have two datasets to visualize in this step. The first one has been automatically generated from the excerpt mentioned above. I have used a similar script for geographical entity recognition using a library called `spaCy` and geocoding with `geopy` that I used to do that for the "I, the Road" exercise. That file can be found [here](https://raw.githubusercontent.com/DAAHNYUAD/daahnyuad.github.io/refs/heads/master/assets/datasets/Bents_Hadhramout_places_geocoded.csv) in \assets\datasets. 
 
-The script works with the leaflet package in R to create an html map with two layers. It also performs a very slight distortion of the points on the map to prevent overlap (occultation) to make the next step easier.
+For step 4, you should use the notebook in posit.cloud entitled "". The notebook employ the `leaflet` package in R to create an html map with two layers. It also performs a very slight distortion of the points on the map to prevent overlap (occultation) to make the next step easier.
 
 Once you have saved an html file to your satisfaction using the notebook, download it out of posit.cloud. 
 
