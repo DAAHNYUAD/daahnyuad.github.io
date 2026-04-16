@@ -12,12 +12,12 @@ tags:
 
 ## DRAFT Guidelines for the Assignment:  
 
-The Mapping Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with attempting to automatically geocode "1, the Road" by Ross Goodwin. This assignment can be done *alone* or *in pairs*.
+The Mapping Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with attempting to annotate "Souther Arabia" by Mr and Mrs Theodore Bent and to automatically geocode "1, the Road" by Ross Goodwin. This assignment can be done *alone* or *in pairs*.
 
 
 - **Format**: Individual or pairs (maximum 2 people)
 - **Length**: Approximately 1500 words (about an 8-minute read), plus visuals
-- **Due Date**: Saturday, 19 April 2026. 
+- **Due Date**: Saturday, 26 April 2026. 
 
 
 This exercise has three main elements: 
@@ -26,35 +26,45 @@ This exercise has three main elements:
 2. **Supplementary Annotation**: using other digital means--Google Maps, OSM, etc., you will complete to whatever extent is possible your geo-annotation.
 3. **Comparison with Automated Geocoding**: You will be provided with a Assemble your evidence, analysis, and visuals in a web-published essay in the form of a post that tells a coherent story about your findings. Make sure that one of your Voyant Tools visualization is a live widget embedded in your post. 
 
-## **Step 1**: 
+## **Step 1**: The Text and its Author
+
+The text you will annotate in Recogito contains more of the text of "Southern Arabia" by Theodore and Mabel Bent (Project Gutenberg text #21569). This is the same text for which we annotated the section about the Yemeni island of Socotra. The passage in question will be the first half of the travel through the Hadr al Mot (the Hadhramout).
 
 ## **Step 2**: Research the Text in Question
 
-Before you begin analysis, research the texts themselves: Who are the authors? What is the publication context? What are the general themes and contents? You will want to do background research using something like Wikipedia or other reliable web sources. This research may actually inform your choice of corpus.
+Before you begin analysis, research the texts themselves: Who are the authors? What is the publication context? What are the general themes and contents? You can learn more about its authors [here](https://en.wikipedia.org/wiki/James_Theodore_Bent). Feel free to use anything you learned in the homework assignment about Socotra. 
 
-By becoming familiar with your text, you’ll be able to:
+> The more you know about the text, the more meaningful your analysis will be. 
 
-- Justify your annotation more meaningfully
-- Contextualize your findings rather than studying the corpus in isolation
+## **Step 3**: Annotating in Recogito
+Upload the provided txt file into your own account in Recogito by clicking on the blue `add` button. If you are working on this in a pair, one of you can add the file, and then share it with the other. Do this by opening the file and then from document settings, click on `sharing` and adding the user name of your partner. 
 
-> The more you know about the texts, the more meaningful your analysis will be. 
+Before you begin annotating, in `annotation preferences` unclick all of the gazetteers, except HistoGIS, Pleiades and GeoNames. 
 
-## **Step 3**: Conduct your Analysis 
+Navigate to `document view` and annotate as much as you can from it. If you do not find place names in the gazetteers mentioned above, you can use other sources (Wikipedia, Google Maps, etc) and insert latlongs into the comment field. 
 
-For this exercise you must use the R notebook designed to generate the map. You can alternatively use Copilot to do it in a more "distant coding" way. 
+When you are done with your annotation, fill out the metadata in `document settings` and opt for the "out of copyright in territory of publication" license and save. Then in the `sharing` tab at left set public access to "anyone with the link" and include the link to the document in your write up.   
 
-You will then be asked to compare the different versions (manual and automatic) pointing to what kinds of errors emerge in both, human and machine.
+## **Step 4**: Downloading and Cleaning 
 
-## **Step 4**: Build a multi-layer map using Kepler.gl or leaflet and export it as a html to host on your GitHub site for class. 
+Using "download options" download a csv version of your dataset and do any cleaning necessary. In particular, you may need to move any geodata from the comments field to the latlong fields. 
 
-## **Step 5**: Integrate Course Materials
+Once you have downloaded the data and gotten the link from Step 3, you are done with Recogito. 
 
-Read XXXX and refer to it in your assignment.
+## **Step 5**: Visualizing the Data
 
-Reference at least two (2) other readings or resources (podcasts, articles) from this course in your essay. You may also draw on external sources as appropriate. Be sure to cite what you use include LLMs.
+You will have two datasets to visualize in this step. The first one has been automatically generated from the excerpt mentioned above. I have used a similar script for geographical entity recognition that I used to do that for the "I, the Road" exercise. That file can be found [here](). 
 
+The script works with the leaflet package in R to create an html map with two layers. It also performs a very slight distortion of the points on the map to prevent overlap (occultation) to make the next step easier.
 
-Consider the questions raised in class on making Markdown posts legible: using [Markdown Live Preview](https://markdownlivepreview.com/) and [Hemingway App](https://hemingwayapp.com/) as you compose your response.  Keep the F-shape principle for web writing in mind too!
+Once you have saved an html file to your satisfaction using the notebook, download it out of posit.cloud. 
+
+The last step of visualization is to push it to your Github page. 
+
+## **Step 6**: Conduct your Analysis 
+
+In this last step of the exercise, you can compare the visual results and the structured data on which they depend in order to compare the processes of manual and automatic geocoding to what kinds of differ in human and machine approaches.
+
 
 ## Guiding Questions (you do not need to answer all these questions):
 
