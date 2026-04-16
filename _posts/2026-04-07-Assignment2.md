@@ -69,7 +69,7 @@ Once you have saved an html file to your satisfaction using the notebook, downlo
 
 In the Github web-based interface, create a new repository in your Github account used for this course. You can see the example in https://github.com/DAAHNYUAD/ of one called "hostedmaps." In Github desktop, fetch the origin so that it is updated locally. You can upload the html map via the web interface or by dropping it in the folder for the new repository and committing. 
 
-The iframe you will use to insert that map in your assignment should follow this kind of syntax: 
+The iframe you will use to insert that map in your assignment can follow this kind of syntax: (although some browsers such as Firefox will block it)
 
 ```
 <iframe src="https://daahnyuad.github.io/hostedmaps/UFOdataset.html" width="100%" height="500"></iframe> 
