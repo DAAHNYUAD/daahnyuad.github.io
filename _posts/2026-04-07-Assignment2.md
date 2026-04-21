@@ -28,7 +28,7 @@ The portion of the text you will use is located [here](https://raw.githubusercon
 
 - **Format**: Individual or pairs (maximum 2 people)
 - **Length**: Approximately 1500 words (about an 8-minute read), plus visuals
-- **Due Date**: Saturday, 26 April 2026. 
+- **Due Date**: Monday, 27 April 2026, 11:59pm. 
 - This assignment can be done *alone* or *in pairs*.
 
 This assignment has three main elements: 
