@@ -90,9 +90,9 @@ Topic: We look this week, at a much more distant form of Textual Analysis, that 
 
 ## UNIT 3: SPATIAL DATA 
 
-### Week 7 
+### Week 6 
 
-Topic: The (Geo)spatial in the arts and humanities
+Topic: In this section we begin an introduction to geospatial thinking in the arts and humanities. We will experiment with the visualization with spatial data on map interfaces, as well as explore how such spatial data is structured, and can be modeled using historical artefacts. 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
