@@ -1,5 +1,5 @@
 ---
-title: "Schedule S26"
+title: "Schedule F26"
 permalink: /schedule/
 author_profile: false
 toc: true
@@ -32,7 +32,7 @@ This schedule is organized by week. Reading and assignment details may continue 
 
 ### Week 1 
 
-Topic: This week will be an introduction to the field of Digital Arts and Humanities, a minor that is offered at NYUAD that brings together digital and computational environments with the critical and creative thinking characteristic of the arts and humanities. We will underscore core values and skills important for success in it.	
+Topic: This week will be an introduction to the field of Digital Arts and Humanities, a minor that is offered at NYUAD that brings together digital and computational environments with the critical and creative thinking characteristic of the arts and humanities. We will underscore core values and skills important for success in it.  
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
@@ -43,14 +43,14 @@ Topic: This week will be an introduction to the field of Digital Arts and Humani
 
 ### Week 2 
 
-Topic: It has been argued that being "On the Way to Computational Thinking," is not such much acquiring a specific set of technical skills useful for critical analysis in the arts and humanities, as it is about critical postures we adopt with respect to information and the technical landscape that surrounds us today. Our awareness of this landscape helps us look at the arts and humanities through different lenses, but also to bring critique to the world of technology.
+Topic: It has been argued that being "On the Way to Computational Thinking," is not such much acquiring a specific set of technical skills useful for critical analysis in the arts and humanities, as it is about critical postures we adopt with respect to information and the technical landscape that surrounds us today. Our awareness of this landscape helps us look at the arts and humanities through different lenses, but also to bring critique to the world of technology. The rise of generative AI merits special attention since it offers both new opportunities and challenges for working with technology.
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 8 Sept  3:20PM-6:00PM | <br> -Review NotebookLM audio summary [in drive] <br> -Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. [in Drive] <br> -Slater, [Distant Coding in the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html),  <br> -Download [GitHub Desktop](https://desktop.github.com/) <br> -[What is Markdown and Why Should we Use It?](https://www.markdownguide.org/getting-started/) <br> -Register your GitHub username and site name [here](https://docs.google.com/spreadsheets/d/1gDSnAzQhg7xVgbyAumFKTgCPDGLBp06yHrQD0pYVYOY/edit?usp=sharing) | Lab: <br> -[Working on building our course sites](https://daahnyuad.github.io/blog/creating-a-static-siteS26/)  <br> -pushing material to them using Github Desktop  <br> -discussion and practice with Markdown <br> -a [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) <br> -Trying out agentic coding <br> -Slides "Distant Coding" in Drive |
+| Tues, 8 Sept  3:20PM-6:00PM | <br> -Review NotebookLM audio summary [in drive] <br> -Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. [in Drive] <br> -Slater, [Distant Coding in the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html),  <br> -Download [GitHub Desktop](https://desktop.github.com/) <br> -[What is Markdown and Why Should we Use It?](https://www.markdownguide.org/getting-started/) <br> -Register your GitHub username and site name [here](https://docs.google.com/spreadsheets/d/1TfNfTmIdxtou0yzEyqs7Jvytpz_kN2cBSVYjejAdMvk/edit?usp=sharing) | Lab: <br> -[Working on building our course sites](https://daahnyuad.github.io/blog/creating-a-static-siteS26/)  <br> -pushing material to them using Github Desktop  <br> -discussion and practice with Markdown <br> -a [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) <br> -Trying out agentic coding <br> -Slides "Distant Coding" in Drive |
 | Thursday, 10 Sept  3:20PM-4:35PM |	<br> -Drucker, [ch 11](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 192-210 <br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The People Refusing to Use AI](https://archive.ph/u2Tx8) <br> -[Pros and Cons of GitHub Copilot](https://www.netguru.com/blog/github-copilot) <br> -[LLMs and practical knowledge: What is intelligence?, 2024, pp. 19-26.](https://philpapers.org/archive/SMILAP-5.pdf) | <br> -discussion: comparing and contrasting computational thinking and distant coding <br> -[Connecting VSCode and Copilot](https://daahnyuad.github.io/blog/GitHub-Education-VSCode-S26/) <br> -set up and prompting a [digital literacy narrative in VSCode](https://daahnyuad.github.io/blog/DLN-Assignment-S26/) | 
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S26/)** Due Date 3 Feb, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S26/)** Due Date 18 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
