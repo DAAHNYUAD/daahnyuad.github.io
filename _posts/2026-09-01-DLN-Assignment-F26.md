@@ -10,6 +10,7 @@ tags:
   - LLMs
   - S26
   - Notice
+permalink: /dln-assignment-f26/
 ---
 
 ## Guidelines for the Assignment: 
