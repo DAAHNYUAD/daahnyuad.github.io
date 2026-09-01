@@ -92,7 +92,7 @@ Topic: We look this week, at a much more distant form of Textual Analysis, that 
 
 ### Week 6 
 
-Topic: In this section we begin an introduction to geospatial thinking in the arts and humanities. We will experiment with the visualization with spatial data on map interfaces, as well as explore how such spatial data is structured, and can be modeled using historical artefacts. 
+Topic: In this section we begin an introduction to geospatial thinking in the arts and humanities. We will experiment with the visualization with spatial data on map interfaces and what kinds of symbology allow those visualizations to reflect the desired aspect of the data. 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
@@ -106,55 +106,59 @@ Topic: In this section we begin an introduction to geospatial thinking in the ar
 
 Oral Exam week of XXX. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
 
-### Week 8 
+### Week 7 
 
-Topic: Extracting and Visualizing Spatial Information from Sources
+Topic: This week we explore how spatial data is structured, and can be modeled using historical artefacts. We will experiment with both manual and automated creation of data, as well as using an LLM to help us with complex historical sources. 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 27 Oct 3:20PM-6:00PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | <br> -Lab: Share back about the [sample spatial projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit?tab=t.0) <br> -LLMs, Information Extraction and Digitized Historical Documents <br> -theme exploration across all the ZG issues  |
-| Thurs, 29 Oct 3:20PM-4:35PM | <br> -"Thick Mapping" [Hypercities](https://escholarship.org/content/qt3mh5t455/qt3mh5t455.pdf), pp. 49-65. | <br> -Hands on <br> - Finalize topics from the [Zanzibar Gazette](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) <br> -presentation of Assignment 2 | 
+| Tues, 13 Oct 3:20PM-6:00PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | <br> -Lab: Share back about the [sample spatial projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit?tab=t.0) <br> -LLMs, Information Extraction and Digitized Historical Documents <br> -theme exploration across all the ZG issues  |
+| Thurs, 15 Oct 3:20PM-4:35PM | <br> -"Thick Mapping" [Hypercities](https://escholarship.org/content/qt3mh5t455/qt3mh5t455.pdf), pp. 49-65. | <br> -Hands on <br> - Finalize topics from the [Zanzibar Gazette](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) <br> -presentation of Assignment 2 | 
 
-**ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment2-S25/)** Due 15 April, 20% final grade. 
+**ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment2-S25/)** Due 30 October, 20% final grade. 
 {: .notice}
 
-**Spring Break and Eid** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
+**Fall Break** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
 {: .notice}
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 9 
+### Week 8 
 
 Topic: Humanitarian Mapping
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 3 Nov 3:20PM-6:00PM | <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | -agentic coding of OSM/GeoNames street data and map making using Leaflet |
-| Thurs, 5 Nov 3:20PM-4:35PM |  -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Discussion and continuation of geospatial coding in VSCode | 
+| Tues, 27 Oct 3:20PM-6:00PM | <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | -agentic coding of OSM/GeoNames street data and map making using Leaflet |
+| Thurs, 29 Oct 3:20PM-4:35PM |  -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Discussion and continuation of geospatial coding in VSCode | 
 
-### Week 10 
+### Week 9 
 
 Topic: More Maps
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 10 Nov 3:20PM-6:00PM |  <br> - make an account at [Recogito](https://recogito.pelagios.org/signup) and share your username  <br> -About [Socotra](https://en.wikipedia.org/wiki/Socotra) <br> -[What is a Gazetteer? (slides)](https://docs.google.com/presentation/d/1mKDnnlUSgma24tZGBbHTD5aCzYYtCsPL0sggBCljClw/edit?usp=sharing) | <br> -spatial close reading of the section on Socotra in "[Southern Arabia](https://www.gutenberg.org/ebooks/21569)" by [J. Theodore Bent](https://en.wikipedia.org/wiki/James_Theodore_Bent) and Mrs. Bent |
-| Thurs, 12 Nov 3:20PM-4:35PM | <br> -What is OSM? <br> -What is the Overpass API? | <br> -editing, querying & visualizing [Overpass Turbo]( https://overpass-turbo.eu/) with the help of Gemini  <br> -Notebook: “Querying and Visualizing OSM data with R” (posit.cloud) <br> -Distant coding with [UAE data](https://download.geonames.org/export/dump/) (geonames) and leaflet in R | 
+| Tues, 3 Nov 3:20PM-6:00PM |  <br> - make an account at [Recogito](https://recogito.pelagios.org/signup) and share your username  <br> -About [Socotra](https://en.wikipedia.org/wiki/Socotra) <br> -[What is a Gazetteer? (slides)](https://docs.google.com/presentation/d/1mKDnnlUSgma24tZGBbHTD5aCzYYtCsPL0sggBCljClw/edit?usp=sharing) | <br> -spatial close reading of the section on Socotra in "[Southern Arabia](https://www.gutenberg.org/ebooks/21569)" by [J. Theodore Bent](https://en.wikipedia.org/wiki/James_Theodore_Bent) and Mrs. Bent |
+| Thurs, 5 Nov 3:20PM-4:35PM | <br> -What is OSM? <br> -What is the Overpass API? | <br> -editing, querying & visualizing [Overpass Turbo]( https://overpass-turbo.eu/) with the help of Gemini  <br> -Notebook: “Querying and Visualizing OSM data with R” (posit.cloud) <br> -Distant coding with [UAE data](https://download.geonames.org/export/dump/) (geonames) and leaflet in R | 
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ## UNIT 4: IMAGE DATA
 
-### Week 11 
+### Week 10 
 
 Topic: Images as Data 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 17 Nov 3:20PM-6:00PM | <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Binkyte, "[Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies](https://dhq-static.digitalhumanities.org/pdf/000686.pdf)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Exploring Image Clustering with Orange |
-| Thurs, 19 Nov  3:20PM-4:35PM | <br> -[Download Orange Data Mining](https://orangedatamining.com/) <br> -Lang and Ommer "[Transforming Information Into Knowledge: How Computational Methods Reshape Art History](https://dhq-static.digitalhumanities.org/pdf/000560.pdf)"  <br> -Impett and Offert, "[There is a Digital Art History"](https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Discussion of "Distant Viewing" | 
+| Tues, 10 Nov 3:20PM-6:00PM | <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Binkyte, "[Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies](https://dhq-static.digitalhumanities.org/pdf/000686.pdf)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Exploring Image Clustering with Orange |
+| Thurs, 12 Nov  3:20PM-4:35PM | <br> -[Download Orange Data Mining](https://orangedatamining.com/) <br> -Lang and Ommer "[Transforming Information Into Knowledge: How Computational Methods Reshape Art History](https://dhq-static.digitalhumanities.org/pdf/000560.pdf)"  <br> -Impett and Offert, "[There is a Digital Art History"](https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Discussion of "Distant Viewing" | 
 
+
+### Week 11 
+
+Instructor away at a conference. Independent work. 
 
 ### Week 12 
 
@@ -162,8 +166,8 @@ Topic: "Looking at and through the algorithm"
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 1 Dec 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  <br> -Extension of Distant Viewing Using scripts from the Distant Viewing Lab and agentic coding |
-| Thurs, 3 Dec  |  | no class | 
+| Tues, 24 Nov 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  <br> -Extension of Distant Viewing Using scripts from the Distant Viewing Lab and agentic coding |
+| Thurs, 26 Nov  |  |  | 
 
 <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) <br> -[DV Explorer 2.1-2.7 and 5.1-5.2](https://distantviewing.org/dvexplorer/pages/welcome/) | <br> -Discussion of How to Build an Image Corpus <br> -Journal of Open Humanities Data <br> -Zenodo | 
 
@@ -178,19 +182,26 @@ Topic: Computer Vision and Historical Images
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 8 Dec 3:20PM-6:00PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
-| Thurs, 10 Dec 3:20PM-4:35PM | Continuing CV | <br> -Discussion <br> -Questions about Assignment 3 | 
+| Tues, 1 Dec 3:20PM-6:00PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
+| Thurs, 3 Dec 3:20PM-4:35PM | no class |  | 
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 8 May 2024, 5% final grade.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-## UNIT 5: WRAP UP
-
 ### Week 14  
 
-Topic: Wrap up  
+Topic: CV   
+
+| Time/Date | Reading | Activity |
+| :--- | :--- | :--- |
+| Mon, 8 Dec | CV | |
+| Mon, 10 Dec | CV | |
+
+## UNIT 5: WRAP UP
+
+### Week 15 
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
