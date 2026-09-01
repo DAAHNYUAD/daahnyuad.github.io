@@ -1,6 +1,6 @@
 ---
-title: "Schedule F26"
-permalink: /schedule/
+title: "Schedule S26"
+permalink: /scheduleS26/
 author_profile: false
 toc: true
 toc_label: "Spring 2026 Schedule"
