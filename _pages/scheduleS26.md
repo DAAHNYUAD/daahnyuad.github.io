@@ -37,7 +37,9 @@ Topic: It has been argued that being "On the Way to Computational Thinking," is 
 
 ## UNIT 2: TEXTUAL DATA
 
-### Week 3 Distant Reading
+### Week 3 
+
+Topic: Distant Reading
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
