@@ -10,7 +10,6 @@ toc_icon: "calendar"
 
 This Fall 2026 schedule is organized by week. Reading and assignment details may continue to be posted on the course site as we progress through the semester. All material is subject to change at the instructor’s discretion based on our progress in the course. If there are changes which impact due dates or the timeline of work, they will be clearly stated here and in class.
 
-
 ## Important Dates for Fall 2026 from [NYUAD Registrar](https://nyuad.nyu.edu/en/about/administration-and-governance/undergraduate-academic-calendar.html)
 
 | Date | Event |
@@ -25,8 +24,6 @@ This Fall 2026 schedule is organized by week. Reading and assignment details may
 | Monday, 14 December | Legislative Day - Thursday classes |
 | Monday, 14 December | **Last Day of Classes** |
 | Wednesday, 16 December | All work due |
-
----
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
