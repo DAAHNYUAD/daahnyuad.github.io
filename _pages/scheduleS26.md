@@ -23,7 +23,7 @@ Topic: This week will be an introduction to the dynamic and fast moving field of
 
 ### Week 2 
 
-It has been argued that being "On the Way to Computational Thinking," more than being about technical skills acquisition, is about critical postures we adopt with respect to information and the technical landscape that surrounds us today. 
+Topic: It has been argued that being "On the Way to Computational Thinking," is not such much acquiring a specific set of technical skills useful for critical analysis in the arts and humanities, as it is about critical postures we adopt with respect to information and the technical landscape that surrounds us today. 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
