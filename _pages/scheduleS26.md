@@ -36,14 +36,14 @@ Topic: This week will be an introduction to the field of Digital Arts and Humani
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 1 Sept (3:20PM-6:00PM) | <br> -Mattingly, "[How to Get Started in Digital Humanities in 2023, and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)" (requires account), Medium, 17 January 2023 <br> -Berry, [What are the Digital Humanities?](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/), British Academy, 13 February 2019 <br> -[Data in the Humanities](https://www.youtube.com/watch?v=sKJo9ewHDBc) | <br> -Introduction to course, expectations, syllabus <br> -Introducting ourselves |
+| Tues, 1 Sept (3:20PM-6:00PM) | <br> -Mattingly, "[How to Get Started in Digital Humanities in 2023, and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)" (requires account), Medium, 17 January 2023 <br> -Berry, [What are the Digital Humanities?](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/), British Academy, 13 February 2019 <br> -[Data in the Humanities](https://www.youtube.com/watch?v=sKJo9ewHDBc) | <br> -Introduction to course, expectations, syllabus <br> -Introducting ourselves <br> -Github Education |
 | Thurs, 3 Sept	(3:20PM-4:35PM) | <br> -Sign up for [Github](https://github.com) and [Github Education](https://github.com/education)  <br> -Drucker, [ch 1](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488), 1-18.  <br> -Posner, [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)  <br> -Choose one of the links here to discuss [Digital Humanities and AI](https://infoguides.gmu.edu/digitalhumanities/artificialintelligence) | <br> -Discussion of Drucker, Posner and DH/AI  <br> -Slides: A few global examples of global communities doing digital arts and humanities [in Drive] | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 2 
 
-Topic: It has been argued that being "On the Way to Computational Thinking," is not such much acquiring a specific set of technical skills useful for critical analysis in the arts and humanities, as it is about critical postures we adopt with respect to information and the technical landscape that surrounds us today. 
+Topic: It has been argued that being "On the Way to Computational Thinking," is not such much acquiring a specific set of technical skills useful for critical analysis in the arts and humanities, as it is about critical postures we adopt with respect to information and the technical landscape that surrounds us today. Our awareness of this landscape helps us look at the arts and humanities through different lenses, but also to bring critique to the world of technology.
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
