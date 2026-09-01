@@ -62,7 +62,7 @@ Topic: In this week, we will contrast close and "distant" reading, that is, movi
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-S26/)** Due 2 Oct, 20% final grade. 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-F26/)** Due 2 Oct, 20% final grade. 
 {: .notice}
 
 ### Week 4 
