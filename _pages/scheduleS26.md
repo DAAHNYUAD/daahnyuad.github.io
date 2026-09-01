@@ -184,7 +184,9 @@ Topic: Computer Vision and Historical Images
 
 ## UNIT 5: WRAP UP
 
-### Week 14  Wrap up  
+### Week 14  
+
+Topic: Wrap up  
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
