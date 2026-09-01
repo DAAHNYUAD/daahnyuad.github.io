@@ -5,14 +5,13 @@ author_profile: false
 ---
 
 
-There are **_required_** books in this course. It is an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). In addition to this ebook, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. 
+There is a **_required_** book in this course. It is an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). In addition to this ebook, the course site will have links to e-book chapters, research articles or other open, online materials and tutorials of interest. 
 
 There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
 
 **Required e-book:**
 
 1. Drucker, [The Digital Humanities Coursebook](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939) (Routledge, 2021).
-
 
 **Optional Background reading:**
 
@@ -26,28 +25,32 @@ There will be installation of some software and/or signups in online platforms i
 - Booth/Posner, Varieties of Digital Humanities, PMLA 135.1(Jan 2020). 
 - Brunn and Dodge, [Mapping Across Academia](https://link.springer.com/book/10.1007/978-94-024-1011-2)
 - Burdick et al. [Digital_Humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph003731637) (MIT, 2014)  open access download [here](https://openresearchlibrary.org/viewer/773deff1-0a60-44dd-aa7b-118c6bf6e9d5/7).
+- Damman and Kremer (eds.), Geographical Research in the Digital Humanities (Bielefeld UP, 2024) open access download [here](https://www.transcript-publishing.com/978-3-8376-6918-3/geographical-research-in-the-digital-humanities/)
 - D'Ignazio and Klein, Data Feminism.
 - Du Preez, [Voices from the South: Digital Arts and Humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008196635) (Aosis, 2018).
 - Eve, [The Digital Humanities and Literary Studies](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008736613) (Oxford, 2022). 
 - Fiormonte/Chaudhuri/Ricaurte, [Global Debates in the Digital Humanities](https://muse.jhu.edu/book/100081), (Minnesota, 2022). 
 - Gold & Klein, Debates in the Digital Humanities (Minnesota) [2012](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph004291777), [2016](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph007561494), [2019](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008476431), [2023](https://muse-jhu-edu.proxy.library.nyu.edu/book/103333).
 - Gómez, [Digital Arts](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph008057112) (Brill, 2019).
+- Graham and Dittus, [Geographies of Digital Exclusion](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/13vdfeh/alma9998782527507871)
 - Hankins et al. [Digital Futures of Graduate Study in the Humanities](https://dhdebates.gc.cuny.edu/projects/digital-futures-of-graduate-study-in-the-humanities)
 - Kokensparger, [Guide to Programming for the Digital Humanities : Lessons for Introductory Python](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph006337285) (Springer, 2018).
 - Nieves, McGrail & Senier, [People, Practice, Power : Digital Humanities Outside the Center](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008655916) (Minnesota, 2021)
 - O'Sullivan, [The Bloomsbury Handbook of the Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph009276012) (Bloomsbury, 2022). 
 - Price/Siemens, [Literary Studies in the Digital Age](https://dlsanthology.mla.hcommons.org/) (MLA, 2019).
 - Risam, [New Digital Worlds: Postcolonial Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph006574882) (Northwestern, 2019).
+- Risam, [Data Empire: The Power of Information to Organize, Control and Dominate](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/13vdfeh/alma9998782527507871) (Harper, 2026).
+- Risam and Josephs (eds), [The Digital Black Atlantic](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/13vdfeh/alma9998782527507871) (Minnesota, 2021).
 - Rockwell and Sinclair, [Hermeneutica : Computer-Assisted Interpretation in the Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004679016) (MIT, 2016).
 - Salmi, [What is Digital History?](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007836232) (Polity, 2021)
-- Schwan & Thomson, [The Palgrave handbook of digital and public humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph009069848) (Palgrave, 2023).
+- Schwan and Thomson, [The Palgrave handbook of digital and public humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph009069848) (Palgrave, 2023).
 - Schreibman/Siemens/Unsworth, [A New Companion to Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007340605) (Wiley Blackwell, 2016).
 - Tilton et al, [Computational Humanities](https://dhdebates.gc.cuny.edu/projects/computational-humanities)
 - Travis/van Lünen, [The Digital Arts and Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004849019) (Springer, 2019).
 - Travis, [Abstract Machine: Humanities GIS](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004308007) (ESRI, 2015).
 - Wernimont/Losh, [Bodies of Information: Digital Humanities and Intersectional Feminism](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007465972) (Minnesota, 2018). 
 
-A [reference guide](http://guides.nyu.edu/digitalhumanities) for Digital Arts and Humanities has been prepared by the NYUAD library. An (amateurish!) [Stream channel](https://stream.nyu.edu/channel/NYUAD%2BDH/188437763) exists with some tutorials specific to DAAH. 
+A [reference guide](http://guides.nyu.edu/digitalhumanities) for Digital Arts and Humanities has been prepared by the NYUAD library. 
 
 **Supplementary learning materials available on the web:**
 

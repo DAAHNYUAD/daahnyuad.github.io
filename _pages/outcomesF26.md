@@ -5,10 +5,11 @@ author_profile: false
 ---
 
 
-
 ## COURSE LEARNING OUTCOMES: 
 
-The Fall 2026 version of the course will be offered as an elective in Interactive Media. Below is a matrix which maps the Course Learning Outcomes (CLOs) to IM Program Learning Outcomes (PLOs) found here: 
+The Fall 2026 version of the course will be offered as an elective in Interactive Media. It is also the core course in for the new minor in Digital Arts and Humanities.
+
+Below is a matrix which maps the Course Learning Outcomes (CLOs) to the Interactive Media Program Learning Outcomes (PLOs): 
 
 | DAAH | CLO | IM | PLO | Weight |
 | 1 | Evaluate theoretical readings in the context of hands on practical exploration | 2&4 | Analytical Thinking, Critical Thinking | Medium |
@@ -26,5 +27,6 @@ This course will take place in both a seminar and a lab style, with discussion o
 - The course will incorporate guest lecturers when possible. 
 - Since the course strives to use open and accessible methods, most hands-on work done during the lab session can be repeated asynchronously from students’ computers. Specialized labs or software will occasionally be required.
 - A laptop will be essential for almost every session. Sometimes a tablet or pad will not be sufficient. 
-- Students will work in teams to carry out small projects using what they have learned. They will also design, create and evaluate individual project concepts.
-- All course work is public and open in a digital web-based format, with an emphasis on creating a public portfolio. 
+- Students will work in teams to carry out small projects using what they have learned.
+- All course work is public and open in a digital web-based format, with an emphasis on creating a public portfolio.
+- Responsible use of AI tools will be modeled in the assignments, with specific guidelines provided.
