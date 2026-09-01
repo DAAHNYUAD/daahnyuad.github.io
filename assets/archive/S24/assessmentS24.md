@@ -1,10 +1,6 @@
----
-title: "Assessment S24"
-permalink: /assessment/
-author_profile: false
----
+Assessment S24
 
-
+> This page is from a previous semester.  
 
 
 **ASSESSMENT:**

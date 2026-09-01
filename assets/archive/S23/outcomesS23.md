@@ -1,8 +1,4 @@
----
-title: "Outcomes"
-permalink: /outcomesS23/
-author_profile: false
----
+Outcomes S23
 
 > This page is from a previous semester.  
 

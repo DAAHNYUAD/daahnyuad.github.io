@@ -1,5 +1,6 @@
 Outcomes S25
 
+> This page is from a previous semester.  
 
 
 ## COURSE LEARNING OUTCOMES: 

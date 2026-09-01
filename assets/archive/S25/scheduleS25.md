@@ -1,5 +1,8 @@
 Schedule S25
 
+> This page is from a previous semester.  
+
+
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
 ### Week 1 Digital Arts and Humanities	

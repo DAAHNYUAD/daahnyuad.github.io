@@ -1,12 +1,7 @@
----
-title: "Schedule S24"
-permalink: /schedule/
-author_profile: false
-toc: true
-toc_label: "Spring 2024 Schedule"
-toc_sticky: true
-toc_icon: "calendar"
----
+Schedule S24
+
+> This page is from a previous semester.  
+
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 

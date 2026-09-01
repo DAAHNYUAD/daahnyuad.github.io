@@ -1,8 +1,4 @@
----
-title: "Assessment F23"
-permalink: /assessmentF23/
-author_profile: false
----
+Assessment F23
 
 > This page is from a previous semester.  
 

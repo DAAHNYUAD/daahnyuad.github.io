@@ -1,8 +1,4 @@
----
-title: "Materials S23"
-permalink: /materialsS23/
-author_profile: false
----
+Materials S23
 
 > This page is from a previous semester.  
 

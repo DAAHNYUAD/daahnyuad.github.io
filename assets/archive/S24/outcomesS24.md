@@ -1,9 +1,6 @@
----
-title: "Outcomes S24"
-permalink: /outcomes/
-author_profile: false
----
+Outcomes S24
 
+> This page is from a previous semester.  
 
 
 ## COURSE LEARNING OUTCOMES: 
