@@ -5,7 +5,6 @@ author_profile: false
 ---
 
 
-
 There are **_required_** books in this course. It is an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). In addition to this ebook, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. 
 
 There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
@@ -13,6 +12,7 @@ There will be installation of some software and/or signups in online platforms i
 **Required e-book:**
 
 1. Drucker, [The Digital Humanities Coursebook](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939) (Routledge, 2021).
+
 
 **Optional Background reading:**
 
