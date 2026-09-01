@@ -8,15 +8,35 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 
+This schedule is organized by week. Reading and assignment details may continue to be posted on the course site as we progress through the semester. All material is subject to change at the instructor’s discretion based on our progress in the course. If there are changes which impact due dates or the timeline of work, they will be clearly stated here and in class.
+
+
+## Important Dates for Fall 2026 from [NYUAD Registrar](https://nyuad.nyu.edu/en/about/administration-and-governance/undergraduate-academic-calendar.html)
+
+| Date | Event |
+|------|-------|
+| Monday, 31 August | **First Day of Classes** |
+| Friday, 11 September | Add/Drop Deadline (14-week courses) |
+| Saturday, 17 October; 18-22 October| **Reading Day & Finals for 7 week courses (no classes)** |
+| Friday-Sunday 23-25 October | **Fall Break (no classes)** |
+| Monday, 26 October | Classes Resume (14-week courses) |
+| Friday, 20 November | Withdrawal Deadline (14-week courses) |
+| Wednesday-Friday, 2-3 December | **National Day Holiday (no classes)** |
+| Monday, 14 December | Legislative Day - Thursday classes |
+| Monday, 14 December | **Last Day of Classes** |
+| Wednesday, 16 December | All work due |
+
+---
+
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
 ### Week 1 
 
-Topic: This week will be an introduction to the dynamic and fast moving field of Digital Arts and Humanities, the minor that is offered at NYUAD as well as some of the core values and core skills important for it.	
+Topic: This week will be an introduction to the field of Digital Arts and Humanities, a minor that is offered at NYUAD that brings together digital and computational environments with the critical and creative thinking characteristic of the arts and humanities. We will underscore core values and skills important for success in it.	
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 1 Sept (3:20PM-6:00PM) | <br> -Mattingly, "[How to Get Started in Digital Humanities in 2023, and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)" (requires account), Medium, 17 January 2023 <br> -Berry, [What are the Digital Humanities?](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/), British Academy, 13 February 2019 <br> -[Data in the Humanities](https://www.youtube.com/watch?v=sKJo9ewHDBc) | Introduction to course, expectations, syllabus |
+| Tues, 1 Sept (3:20PM-6:00PM) | <br> -Mattingly, "[How to Get Started in Digital Humanities in 2023, and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)" (requires account), Medium, 17 January 2023 <br> -Berry, [What are the Digital Humanities?](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/), British Academy, 13 February 2019 <br> -[Data in the Humanities](https://www.youtube.com/watch?v=sKJo9ewHDBc) | <br> -Introduction to course, expectations, syllabus <br> -Introducting ourselves |
 | Thurs, 3 Sept	(3:20PM-4:35PM) | <br> -Sign up for [Github](https://github.com) and [Github Education](https://github.com/education)  <br> -Drucker, [ch 1](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488), 1-18.  <br> -Posner, [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)  <br> -Choose one of the links here to discuss [Digital Humanities and AI](https://infoguides.gmu.edu/digitalhumanities/artificialintelligence) | <br> -Discussion of Drucker, Posner and DH/AI  <br> -Slides: A few global examples of global communities doing digital arts and humanities [in Drive] | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
