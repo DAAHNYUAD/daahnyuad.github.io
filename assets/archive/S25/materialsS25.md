@@ -1,9 +1,4 @@
----
-title: "Materials S25"
-permalink: /materials/
-author_profile: false
----
-
+Materials S25
 
 
 There are **_required_** books in this course. It is an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). In addition to this ebook, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. 

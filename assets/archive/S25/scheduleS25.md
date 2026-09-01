@@ -1,12 +1,4 @@
----
-title: "Schedule S25"
-permalink: /schedule/
-author_profile: false
-toc: true
-toc_label: "Spring 2025 Schedule"
-toc_sticky: true
-toc_icon: "calendar"
----
+Schedule S25
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 

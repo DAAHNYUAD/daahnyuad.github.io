@@ -1,8 +1,4 @@
----
-title: "Outcomes S25"
-permalink: /outcomes/
-author_profile: false
----
+Outcomes S25
 
 
 

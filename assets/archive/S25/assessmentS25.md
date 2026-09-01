@@ -1,8 +1,4 @@
----
-title: "Assessment S25"
-permalink: /assessment/
-author_profile: false
----
+Assessment S25
 
 
 

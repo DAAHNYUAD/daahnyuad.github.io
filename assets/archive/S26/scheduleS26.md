@@ -1,12 +1,5 @@
----
-title: "Schedule S26"
-permalink: /scheduleS26/
-author_profile: false
-toc: true
-toc_label: "Spring 2026 Schedule"
-toc_sticky: true
-toc_icon: "calendar"
----
+Schedule S26
+
 
 This schedule is organized by week. Reading and assignment details may continue to be posted on the course site as we progress through the semester. All material is subject to change at the instructor’s discretion based on our progress in the course. If there are changes which impact due dates or the timeline of work, they will be clearly stated here and in class.
 

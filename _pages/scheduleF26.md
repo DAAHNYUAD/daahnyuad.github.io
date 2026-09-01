@@ -3,6 +3,9 @@ title: "Schedule F26"
 permalink: /schedule/
 author_profile: false
 toc: true
+toc_label: "Fall 2026 Schedule"
+toc_sticky: true
+toc_icon: "calendar"
 ---
 
 This Fall 2026 schedule is organized by week. Reading and assignment details may continue to be posted on the course site as we progress through the semester. All material is subject to change at the instructor’s discretion based on our progress in the course. If there are changes which impact due dates or the timeline of work, they will be clearly stated here and in class.
