@@ -26,7 +26,7 @@ This Fall 2026 schedule is organized by week. Reading and assignment details may
 
 ### Week 1 
 
-Topic: This week will be an introduction to the field of Digital Arts and Humanities, a minor that is offered at NYUAD that brings together digital and computational environments with the critical and creative thinking characteristic of the arts and humanities. We will underscore core values and skills important for success in it.  
+Topic: This week will be an introduction to the field of Digital Arts and Humanities, a minor that is offered at NYUAD that brings together digital and computational thinking with the subjects and thinking characteristic of the arts and humanities. We will discuss some of the core values and skills important for success in it.  
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
