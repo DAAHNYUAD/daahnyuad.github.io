@@ -47,6 +47,9 @@ Topic: It has been argued that being "On the Way to Computational Thinking," is 
 | Tues, 8 Sept  3:20PM-6:00PM | <br> -Review NotebookLM audio summary [in drive] <br> -Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. [in Drive] <br> -Slater, [Distant Coding in the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html),  <br> -Download [GitHub Desktop](https://desktop.github.com/) <br> -[What is Markdown and Why Should we Use It?](https://www.markdownguide.org/getting-started/) <br> -Register your GitHub username and site name [here](https://docs.google.com/spreadsheets/d/1TfNfTmIdxtou0yzEyqs7Jvytpz_kN2cBSVYjejAdMvk/edit?usp=sharing) | Lab: <br> -[Working on building our course sites](https://daahnyuad.github.io/blog/creating-a-static-siteS26/)  <br> -pushing material to them using Github Desktop  <br> -discussion and practice with Markdown <br> -a [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) <br> -Trying out agentic coding <br> -Slides "Distant Coding" in Drive |
 | Thursday, 10 Sept  3:20PM-4:35PM |	<br> -Drucker, [ch 11](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 192-210 <br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The People Refusing to Use AI](https://archive.ph/u2Tx8) <br> -[Pros and Cons of GitHub Copilot](https://www.netguru.com/blog/github-copilot) <br> -[LLMs and practical knowledge: What is intelligence?, 2024, pp. 19-26.](https://philpapers.org/archive/SMILAP-5.pdf) | <br> -discussion: comparing and contrasting computational thinking and distant coding <br> -[Connecting VSCode and Copilot](https://daahnyuad.github.io/blog/GitHub-Education-VSCode-S26/) <br> -set up and prompting a [digital literacy narrative in VSCode](https://daahnyuad.github.io/blog/DLN-Assignment-S26/) | 
 
+**Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
+{: .notice}
+
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F26/)** Due Date 18 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
 {: .notice}
 
@@ -66,6 +69,9 @@ Topic: In this week, we will contrast close and "distant" reading, that is, movi
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 **ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-F26/)** Due 5 Oct, 20% final grade. 
+{: .notice}
+
+**Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
 ### Week 4 
@@ -109,6 +115,8 @@ Topic: In this section we begin an introduction to geospatial thinking in the ar
 
 Oral Exam week of XXX. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
 
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
+
 ### Week 7 
 
 Topic: This week we explore how spatial data is structured, and can be modeled using historical artefacts. We will experiment with both manual and automated creation of data, as well as using an LLM to help us with complex historical sources. 
@@ -121,7 +129,9 @@ Topic: This week we explore how spatial data is structured, and can be modeled u
 **ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment2-S25/)** Due 30 October, 20% final grade. 
 {: .notice}
 
-**Fall Break** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
+> FALL BREAK -- keep calm and have a break!
+ 
+If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data! Trailer [here](https://www.youtube.com/watch?v=iDvPvqImb-4)
 {: .notice}
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
