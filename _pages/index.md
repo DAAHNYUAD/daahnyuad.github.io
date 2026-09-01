@@ -6,7 +6,7 @@ permalink: /
 
 ## Introduction to Digital Arts and Humanities
 
-- **Spring 2026 (21284)**
+- **Fall 2026 (21284)**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Pre-requisites or co-requisites**: none
@@ -21,12 +21,10 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 
 
 | **Element** | **Day** | **Timing** | **Location** | 
-| Lab | Tu | 3:20PM-6:00PM | A5 Social Sciences Room 002 |
-| Class | Th | 3:20PM-4:35PM | A2 Computational Research Room 020 | 
-| Office hours 😊 | Tu / Th or by appt | between 1 and 3pm, but please contact me before coming to make sure I am in the office | A6 L01 1151 |
-| Ramadan in person OH | TBA | TBA | TBA |
+| Lab | Tu | 3:20PM-6:00PM | check Albert |
+| Class | Th | 3:20PM-4:35PM | check Albert | 
+| Office hours 😊 | Tu / Th or by appt | between 130pm and 3pm, but please contact me before coming to make sure I am in the office | A6 L01 1151 |
 
-_During Ramadan the Tuesday session will be slightly shorter to accommodate preparation before Iftar._
 
 
 To see an archive of previous versions of this course, see [here](https://daahnyuad.github.io/archive/)
