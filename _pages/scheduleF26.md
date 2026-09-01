@@ -50,7 +50,7 @@ Topic: It has been argued that being "On the Way to Computational Thinking," is 
 | Tues, 8 Sept  3:20PM-6:00PM | <br> -Review NotebookLM audio summary [in drive] <br> -Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. [in Drive] <br> -Slater, [Distant Coding in the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html),  <br> -Download [GitHub Desktop](https://desktop.github.com/) <br> -[What is Markdown and Why Should we Use It?](https://www.markdownguide.org/getting-started/) <br> -Register your GitHub username and site name [here](https://docs.google.com/spreadsheets/d/1TfNfTmIdxtou0yzEyqs7Jvytpz_kN2cBSVYjejAdMvk/edit?usp=sharing) | Lab: <br> -[Working on building our course sites](https://daahnyuad.github.io/blog/creating-a-static-siteS26/)  <br> -pushing material to them using Github Desktop  <br> -discussion and practice with Markdown <br> -a [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) <br> -Trying out agentic coding <br> -Slides "Distant Coding" in Drive |
 | Thursday, 10 Sept  3:20PM-4:35PM |	<br> -Drucker, [ch 11](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 192-210 <br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The People Refusing to Use AI](https://archive.ph/u2Tx8) <br> -[Pros and Cons of GitHub Copilot](https://www.netguru.com/blog/github-copilot) <br> -[LLMs and practical knowledge: What is intelligence?, 2024, pp. 19-26.](https://philpapers.org/archive/SMILAP-5.pdf) | <br> -discussion: comparing and contrasting computational thinking and distant coding <br> -[Connecting VSCode and Copilot](https://daahnyuad.github.io/blog/GitHub-Education-VSCode-S26/) <br> -set up and prompting a [digital literacy narrative in VSCode](https://daahnyuad.github.io/blog/DLN-Assignment-S26/) | 
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S26/)** Due Date 18 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F26/)** Due Date 18 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
@@ -59,12 +59,12 @@ Topic: It has been argued that being "On the Way to Computational Thinking," is 
 
 ### Week 3 
 
-Topic: Distant Reading
+Topic: In this week, we will contrast close and "distant" reading, that is, moving between detailed interpretation of individual texts and a "birds' eye" analysis of patterns across larger textual collections. Students will use a web based corpus analysis tools "Voyant" and scripts in R to explore features such as word frequency, collocation, similarity. We will see that computational methods complement, rather than replace, interpretive reading.
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 15 Sept 3:20PM-6:00PM |  <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120 <br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/  03faca74-12cf-433f-b823-fc6f7ebae2d5#ch12)" Global Debates in the Digital Humanities, 2022 <br>-Listen to [Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> -Lab: <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) <br> -Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -Using VSCode with agentic coding to extend basic text mining and visualization |
-| Thurs, 17 Sept 3:20PM-4:35PM | <br> -What is a Corpus? <br> -Rockwell and Sinclair, "[The Measured Words: How Computers Analyze Text](https://direct.mit.edu/books/monograph/3494/HermeneuticaComputer-Assisted-Interpretation-in)", 25-43 | More hands on with different corpora |
+| Tues, 15 Sept 3:20PM-6:00PM |  <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120 <br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/  03faca74-12cf-433f-b823-fc6f7ebae2d5#ch12)" Global Debates in the Digital Humanities, 2022 <br>-Listen to [Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> -Lab: <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) <br> -Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) - discontinued <br> -[Voyant](https://voyant-tools.org/) <br> -Using VSCode with agentic coding to extend basic text mining and visualization |
+| Thurs, 17 Sept 3:20PM-4:35PM | <br> -What is a Corpus? <br> -Rockwell and Sinclair, "[The Measured Words: How Computers Analyze Text](https://direct.mit.edu/books/monograph/3494/HermeneuticaComputer-Assisted-Interpretation-in)", 25-43 | <br> -Discussion of Unstructured textual data <br> -More hands on with different corpora |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -73,7 +73,7 @@ Topic: Distant Reading
 
 ### Week 4 
 
-Topic: Computational Analysis of (Historical) Text
+Topic: This week we go fully hands on, experimenting with a computational notebook to analyze a corpus of South Asian texts. 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
@@ -83,24 +83,14 @@ Topic: Computational Analysis of (Historical) Text
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 5 
-
-Topic: 
-
-
-| Time/Date | Preparation | Activity |
-| :--- | :--- | :--- |
-| Tues, 29 Sept 3:20PM-6:00PM |  <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) |
-| Thurs, 1 Oct 3:20PM-4:35PM | <br> -experiment with notebook <br> -go over [Assignment 1](https://daahnyuad.github.io/Assignment1-S26/) | -continuing with Rmd Notebooks (Project Gutenberg Explorer and Colonial South Asian Fiction Explorer) |
-
 ### Week 6 
 
-Topic: Much Larger Textual Analysis - Historical Corpora and Term Frequency-Inverse Document Frequency
+Topic: We look this week, at a much more distant form of Textual Analysis, that is most distinctive word analysis and also TF-IDF Term Frequency-Inverse Document Frequency using prepared corpora. We also investigate how you might build a custom corpus from a historical handwritten archive. 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 6 Oct 3:20PM-6:00PM | <br> -Most Distinctive Word Analysis of 3 Texts  <br> -TF-IDF Analysis of [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) | <br> -Lab with Most Distinctive Analysis and TF IDF  |
-| Thurs, 8 Oct 3:20PM-4:35PM | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  <br> -Hands on intro to Transkribus <br> -Correcting and Retraining the Machine 
+| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Distinctive Word Analysis of 3 Texts  <br> -TF-IDF Analysis of [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) | <br> -Lab with Most Distinctive Analysis and TF IDF  |
+| Thurs, 1 Oct 3:20PM-4:35PM | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  <br> -Hands on intro to Transkribus <br> -Other platforms: OLM or the LLM of your choice. 
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -112,12 +102,12 @@ Topic: The (Geo)spatial in the arts and humanities
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 13 Oct 3:20PM-6:00PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar) <br> -Make an account at [OpenStreetMap](https://www.openstreetmap.org/search?query=Saadiyat+island#map=13/24.53197/54.43082) | <br> -Visit to Special Collections and Lab <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) (in Drive) and [kepler](kepler.gl) |
-| Thurs, 15 Oct 3:20PM-4:35PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit)  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive) | <br> -discussion of structured data  | 
+| Tues, 6 Oct 3:20PM-6:00PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar) <br> -Make an account at [OpenStreetMap](https://www.openstreetmap.org/search?query=Saadiyat+island#map=13/24.53197/54.43082) | <br> -Visit to Special Collections and Lab <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) (in Drive) and [kepler](kepler.gl) |
+| Thurs, 8 Oct 3:20PM-4:35PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit)  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive) | <br> -discussion of structured data in a geospatial context | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 31 March, total 10% of final grade, this part being 5%.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 30 October, total 10% of final grade, this part being 5%.
 {: .notice}
 
 Oral Exam week of XXX. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
