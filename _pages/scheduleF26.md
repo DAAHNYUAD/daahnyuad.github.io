@@ -68,7 +68,7 @@ Topic: In this week, we will contrast close and "distant" reading, that is, movi
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-S26/)** Due 28 Feb, 20% final grade. 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-S26/)** Due 2 Oct, 20% final grade. 
 {: .notice}
 
 ### Week 4 
@@ -90,7 +90,7 @@ Topic: We look this week, at a much more distant form of Textual Analysis, that 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
 | Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Distinctive Word Analysis of 3 Texts  <br> -TF-IDF Analysis of [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) | <br> -Lab with Most Distinctive Analysis and TF IDF  |
-| Thurs, 1 Oct 3:20PM-4:35PM | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  <br> -Hands on intro to Transkribus <br> -Other platforms: OLM or the LLM of your choice. 
+| Thurs, 1 Oct 3:20PM-4:35PM | <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive] <br> -Hands on intro to Transkribus <br> -Trying other platforms for transcription: OLM or the LLM of your choice. 
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
