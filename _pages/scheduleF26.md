@@ -8,6 +8,10 @@ toc_sticky: true
 toc_icon: "calendar"
 ---
 
+<div style="background-color: #6C2C8F; color: white; padding: 30px 20px; text-align: center; margin-bottom: 30px; border-radius: 5px;">
+  <h1 style="margin: 0; font-size: 2.5em;">Introduction to Digital Humanities</h1>
+</div>
+
 This Fall 2026 schedule is organized by week. Reading and assignment details may continue to be posted on the course site as we progress through the semester. All material is subject to change at the instructor’s discretion based on our progress in the course. If there are changes which impact due dates or the timeline of work, they will be clearly stated here and in class.
 
 ## Important Dates for Fall 2026 from [NYUAD Registrar](https://nyuad.nyu.edu/en/about/administration-and-governance/undergraduate-academic-calendar.html)
