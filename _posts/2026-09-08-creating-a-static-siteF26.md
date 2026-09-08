@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - lab
-  - S26
+  - F26
   - Markdown
   - Github Pages
   - VSCode
@@ -13,7 +13,7 @@ tags:
 
 ## Guidelines for the Lab: 
 
-Today in lab one of the things we will be doing is to create your own site at GitHub Pages in which you post all of your coursework, including writing and visuals. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor (VSCode in S26), to learn and practice some Markdown and to get comfortable with editing on our own machine and then publishing our materials gently to the web. 
+Today in lab one of the things we will be doing is to create your own site at GitHub Pages in which you post all of your coursework, including writing and visuals. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor (VSCode in F26), to learn and practice some Markdown (to preview it in the editor or on the web) and to get comfortable with editing on our own machine and then publishing our materials gently to the web. 
 
 Knowing how to create such a "[static site](https://kinsta.com/knowledgebase/what-is-a-static-website/)" is an important skill in minimal and sustainable digital arts and humanities. The site is free, maintenance is minimal and it can also sit alongside examples of code or data that you have created. Curating a tidy, clear site creates a web presence for yourself. 
 
