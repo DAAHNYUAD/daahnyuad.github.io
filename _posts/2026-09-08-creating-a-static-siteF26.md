@@ -44,13 +44,13 @@ STEP 1: Getting the basics set up
 1.  You need to have a [Github account](https://github.com/signup). We will create a repository in it in which we install a template for the site. If you already have a Github account and would like to use it and there is a repository {yourusername}.github.io set up already, you have a few options: 
 
 - you can delete the repository if you do not want it anymore
-- you can rename the repository, e.g. if the repo were named daahnyuad.github.io you could rename it daahnyuad1.github.io and proceed with this tutorial. 
-- you can create an empty repository named, for example `daah`, and then install the template inside of it. 
+- you can rename the repository to make this semester's the main page, e.g. if the repo were named daahnyuad.github.io you could rename it daahnyuad1.github.io and proceed with this tutorial. 
+- you can create an empty repository named, for example `daah` ({yourusername}.github.io/daah) and then install the template inside of it. 
 - you can create a new Github account for the purposes of this course. 
 
 These instructions will guide you through the third option. 
 
-<img src="/assets/images/creatingacct.png" style="zoom:25%;" /> 
+<img src="/assets/images/creatingacct.png" style="zoom:50%;" /> 
 
 1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Visual Studio Code](https://code.visualstudio.com/). Others are possible, such as [Sublime Text](https://www.sublimetext.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
 
@@ -81,23 +81,23 @@ Open GitHub Desktop and log into it with your credentials from your GitHub accou
 
 In Github Desktop, go to File > Clone Repository or with the abovementioned repository, click on the `add` button and pull down for `clone repository`. 
 
-<img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
+<img src="/assets/images/clonerepo1.png" style="zoom:60%;" />
 
 There are several ways of finding the repository you want to clone. When you install Github Desktop for the first time it may ask you if you want to clone. It may also suggest that repo once you have selected `clone repository`. Another sure way of selecting the right place is to copy the URL of your repository where you forked the `minimal-mistakes`template. You can paste that URL in the URL tab and click clone. 
 
-<img src="/assets/images/clonerepo.png" style="zoom:60%;" />
+<img src="/assets/images/clonerepo.png" style="zoom:70%;" />
 
 If successful, you should be able to see the repository in the current repository tab at top left in Github Desktop. 
 
 6.  Editing the repository on your own machine. 
 
-Now that you have a copy of the repository on your laptop you can edit it there (even offline and with no internet connection) and then later "push" the changes to the web. 
+Now that you have a copy of the repository on your laptop you can edit it there (even offline and with no internet connection) and then later "push" the changes to the web. Remember that you can use the functionality of VSCode to preview what it should look like. 
 
 When you edit, save in VSCode (and sometime enter a commit message in Github Desktop), you then clock `commit to master` and you will see a blue button at right `push origin`. Click it to transfer these changes to the web. That is three clicks to push something to the web!
 
-<img src="/assets/images/pushing.png" style="zoom:25%;" />
+<img src="/assets/images/pushing.png" style="zoom:50%;" />
 
-> Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. 
+> Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. Somedays Github is slower than others. 
 
 > NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare. If you do make a change in the GitHub web interface, make sure that you fetch the origin. 
 
@@ -105,7 +105,7 @@ When you edit, save in VSCode (and sometime enter a commit message in Github Des
 
 Let's make some changes in VSCode and push them. 
 
-<img src="/assets/images/pushing.png" style="zoom:25%;" />
+<img src="/assets/images/pushing.png" style="zoom:50%;" />
  
 Pages that have editable material to change your site: 
 
@@ -120,6 +120,7 @@ So that you can have the landing page be a page and not a post, try this:
 Follow up posts:
 
 - [Connecting your VSCode to CoPilot and Customizing your GitHub page](https://daahnyuad.github.io/blog/GitHub-Education-VSCode-S26/)
+- [Markdown and VSCode](https://code.visualstudio.com/Docs/languages/markdown#_markdown-preview-security)
 - Committing directly in VSCode -- coming soon
 
 Enjoy!
