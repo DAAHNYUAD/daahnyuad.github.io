@@ -54,7 +54,7 @@ Topic: It has been argued that being "On the Way to Computational Thinking," is 
 **Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F26/)** Due Date 18 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F26/)** Due Date 21 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
