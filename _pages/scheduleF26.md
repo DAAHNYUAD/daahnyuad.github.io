@@ -90,7 +90,7 @@ Topic: This week we go fully hands on, experimenting with a computational notebo
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 22 Sept 3:20PM-6:00PM |  Instructor at a conference | no class |
+| Tues, 22 Sept 3:20PM-6:00PM |  Instructor at a conference | no class, consider taking an extra credit mini-course, see above |
 | Thurs, 24 Sept 3:20PM-4:35PM | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -experiment with notebook <br> -go over [Assignment 1](https://daahnyuad.github.io/Assignment1-S26/) | -continuing with Rmd Notebooks (Project Gutenberg Explorer and Colonial South Asian Fiction Explorer) |
 
 
