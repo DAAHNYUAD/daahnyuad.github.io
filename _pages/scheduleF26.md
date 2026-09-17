@@ -60,7 +60,7 @@ Topic: It has been argued that being "On the Way to Computational Thinking," is 
 **Extra Credit: 28 September** (McMaster U, Canada), "Creating Documents with LaTeX." Up to 2 points on one assignment. Register [here](https://libcal.mcmaster.ca/event/4050428?hs=a). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F26/)** Due Date 21 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S26/)** Due Date 21 Sept, total of the assignment 10% final grade (in phases over the semester). This portion is ungraded.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
