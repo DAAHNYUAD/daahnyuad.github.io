@@ -78,9 +78,6 @@ Topic: In this week, we will contrast close and "distant" reading, that is, movi
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-F26/)** Due 5 Oct, 20% final grade. 
-{: .notice}
-
 **Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
@@ -91,8 +88,10 @@ Topic: This week we go fully hands on, experimenting with a computational notebo
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
 | Tues, 22 Sept 3:20PM-6:00PM |  Instructor at a conference | no class, consider taking an extra credit mini-course, see above |
-| Thurs, 24 Sept 3:20PM-4:35PM | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -experiment with notebook <br> -go over [Assignment 1](https://daahnyuad.github.io/Assignment1-S26/) | -continuing with Rmd Notebooks (Project Gutenberg Explorer and Colonial South Asian Fiction Explorer) |
+| Thurs, 24 Sept 3:20PM-4:35PM | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -experiment with notebook <br> -go over [Assignment 1](https://daahnyuad.github.io/Assignment-1-F26/) | -continuing with Rmd Notebooks (Project Gutenberg Explorer and Colonial South Asian Fiction Explorer) |
 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment1-F26/)** Due 5 Oct, 20% final grade. 
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
