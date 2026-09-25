@@ -89,6 +89,7 @@ Topic: This week we go fully hands on, experimenting with a computational notebo
 | :--- | :--- | :--- |
 | Tues, 22 Sept 3:20PM-6:00PM |  Instructor at a conference | no class, consider taking an extra credit mini-course, see above |
 | Thurs, 24 Sept 3:20PM-4:35PM | <br> -experiment with notebook <br> -go over [Assignment 1](https://daahnyuad.github.io/Assignment-1-F26/) | -continuing with Rmd Notebooks (Project Gutenberg Explorer, Project Gutenberg Science Fiction Corpus, Colonial South Asian Fiction Explorer) |
+| Friday, 25 Sept 9-11am | anything from the course so far | an extra "clinic" section to work on anything that needs attention | 
 
 **ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment-1-F26/)** Due 5 Oct, 20% final grade. 
 {: .notice}
