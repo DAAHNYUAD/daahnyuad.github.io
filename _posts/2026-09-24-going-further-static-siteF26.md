@@ -89,6 +89,10 @@ The `div` is a container for the map with some parameters specifying how much sp
   </iframe>
 </div>
 
+If you are interested in fixing the center point of your map, you can't do this in with iframe, but it should be established in the part of your code related to leaflet. 
+
+Likewise, if you have many thousands of points, remember that all of those points will sit in the self contained html, maybe making the map slow to load. Consider using a bounding box to filter the data from within the code itself before creating the html. 
+
 ## Inserting an image in your post. 
 
 It is easy to put screenshots or other images you have that you want into your posts or pages.
