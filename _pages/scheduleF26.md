@@ -105,8 +105,10 @@ Topic: We look this week, at a much more distant form of Textual Analysis, that 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Frequent Words versus Most Distinctive Words <br> -Distinctive Words in Voyant Tools <br> -MDW  Analysis of three books from the "[Our Little Cousin](https://en.wikipedia.org/wiki/Our_Little_Cousin)" series  | <br> -Notebook for Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Free work with Project Gutenberg Science Fiction Explorer (Assignment 1) |
+| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Frequent Words versus Most Distinctive Words <br> -Distinctive Words in Voyant Tools <br> -MDW  Analysis of three books from the "[Our Little Cousin](https://en.wikipedia.org/wiki/Our_Little_Cousin)" series  | <br> -Discussion of Oral Exam <br> -Notebook for Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Free work with Project Gutenberg Science Fiction Explorer (Assignment 1) |
 | Thurs, 1 Oct 3:20PM-4:35PM | <br> -Creating our own digital text <br> -OCR/ATR and VLMs <br> -Training a machine to read complex documents <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> -Exercise with complex document structure <br> -Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  
+
+Oral Exam week of 12 October. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0).
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -124,9 +126,7 @@ Topic: In this section we begin an introduction to geospatial thinking in the ar
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 **Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 30 October, total 10% of final grade, this part being 5%.
-{: .notice}
-
-Oral Exam week of XXX. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
+{: .notice} 
 
 <iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
