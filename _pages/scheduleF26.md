@@ -105,10 +105,10 @@ Topic: We look this week, at a much more distant form of Textual Analysis, that 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Frequent Words versus Most Distinctive Words <br> -Distinctive Words in Voyant Tools <br> -MDW  Analysis of three books from the "[Our Little Cousin](https://en.wikipedia.org/wiki/Our_Little_Cousin)" series  | <br> -Discussion of Oral Exam <br> -Notebook for Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Free work with Project Gutenberg Science Fiction Explorer (Assignment 1) |
+| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Frequent Words versus Most Distinctive Words <br> -Distinctive Words in Voyant Tools <br> -MDW  Analysis of three books from the "[Our Little Cousin](https://en.wikipedia.org/wiki/Our_Little_Cousin)" series  | <br> -[Discussion of Oral Exam](https://daahnyuad.github.io/oralreflectionquestions/) <br> -Notebook for Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Free work with Project Gutenberg Science Fiction Explorer (Assignment 1) |
 | Thurs, 1 Oct 3:20PM-4:35PM | <br> -Creating our own digital text <br> -OCR/ATR and VLMs <br> -Training a machine to read complex documents <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> -Exercise with complex document structure <br> -Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  
 
-Oral Exam week of 12 October. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0).
+Oral Exam week of 12 October. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). Topics and sample questions [here](https://daahnyuad.github.io/oralreflectionquestions/).
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
