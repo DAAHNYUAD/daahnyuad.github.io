@@ -105,8 +105,8 @@ Topic: We look this week, at a much more distant form of Textual Analysis, that 
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Distinctive Word Analysis of 3 Texts  <br> -TF-IDF Analysis of [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) | <br> -Lab with Most Distinctive Analysis and TF IDF  |
-| Thurs, 1 Oct 3:20PM-4:35PM | <br> OCR/ATR and VLMs <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  
+| Tues, 29 Sept 3:20PM-6:00PM | <br> -Most Distinctive Word Analysis of 3 Texts  <br> -TF-IDF Analysis of [Science Fiction Texts](https://www.gutenberg.org/ebooks/search/?query=science+fiction+) | <br> -Notebook for Most Distinctive Analysis and TF IDF <br> -Free work with Project Gutenberg Science Fiction Explorer (Assignment 1) |
+| Thurs, 1 Oct 3:20PM-4:35PM | <br> OCR/ATR and VLMs <br> -Training a machine to read complex documents <br> -["Gemini 3 Solves Handwriting Recognition and it’s a Bitter Lesson”](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition) (Humphries) | <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive]  
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
