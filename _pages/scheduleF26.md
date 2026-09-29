@@ -120,8 +120,8 @@ Topic: In this section we begin an introduction to geospatial thinking in the ar
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 6 Oct 3:20PM-6:00PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar) <br> -Make an account at [OpenStreetMap](https://www.openstreetmap.org/search?query=Saadiyat+island#map=13/24.53197/54.43082) | <br> -Visit to Special Collections and Lab <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) (in Drive) and [kepler](kepler.gl) |
-| Thurs, 8 Oct 3:20PM-4:35PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit)  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive) | <br> -discussion of structured data in a geospatial context | 
+| Tues, 6 Oct 3:20PM-6:00PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -"Mapping" (Wilson, in drive) <br> -Make an account at [OpenStreetMap](https://www.openstreetmap.org/search?query=Saadiyat+island#map=13/24.53197/54.43082) <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit) | <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) (in Drive) and [kepler](kepler.gl) |
+| Thurs, 8 Oct 3:20PM-4:35PM |  <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar)   | <br> -Visit to Archives and Special Collections (meet in the back of the library) | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 

@@ -26,7 +26,7 @@ So far we know how to
 - creating a post and tagging the post
 - inserting an interactive map using an iframe
 - inserting an image in a page or post
-- (setting the landing page beyond the default)
+- (setting the landing page beyond the default view of the blog roll)
 - (creating a table of contents for a page)
 
 ## Creating a post
