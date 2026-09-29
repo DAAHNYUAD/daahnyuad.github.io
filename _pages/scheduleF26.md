@@ -94,7 +94,7 @@ Topic: This week we go fully hands on, experimenting with a computational notebo
 **Announcement, Not Extra Credit: starting 27 September** The NYU Phone Breakup Challenge begins. Learn more about it [here](https://www.nyu.edu/about/university-initiatives/nyu-irl/phone-breakup-challenge.html).
 {: .notice}
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment-1-F26/)** Due 5 Oct, 20% final grade. 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/Assignment-1-F26/)** Due 10 Oct, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
