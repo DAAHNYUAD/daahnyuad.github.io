@@ -135,6 +135,29 @@ toc_icon: "calendar"
 ---
 ```
 
+Try other icons including: 
+
+```
+toc_icon: "calendar"
+toc_icon: "calendar-alt"
+toc_icon: "clock"
+toc_icon: "book"
+toc_icon: "graduation-cap"
+toc_icon: "map"
+toc_icon: "list"
+toc_icon: "bars"
+toc_icon: "bookmark"
+toc_icon: "cog"
+```
+
+You can also put in a custom sidebar with 
+
+```
+sidebar:
+  nav: "docs"
+```
+
+
 Good luck with your customization!
 
 
