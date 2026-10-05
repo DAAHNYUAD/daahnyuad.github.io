@@ -158,6 +158,6 @@ sidebar:
 ```
 
 
-Good luck with your customization!
+Good luck with your customization! Let the group know if you find out other interesting features. 
 
 
