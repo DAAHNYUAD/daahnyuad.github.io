@@ -26,8 +26,8 @@ So far we know how to
 - creating a post and tagging the post
 - inserting an interactive map using an iframe
 - inserting an image in a page or post
-- (setting the landing page beyond the default view of the blog roll)
-- (creating a table of contents for a page)
+- setting the landing page beyond the default view of the blog roll
+- creating a table of contents for a page
 
 ## Creating a post
 
@@ -105,6 +105,35 @@ Within the markdown, use this syntax:
 <img src="/assets/images/imagename.png|jpg" style="zoom:50%;" />
 ```
 
+# Setting the landing page to be the index.md file
+
+Out of the box, the `Minimal Mistakes` theme sets the blog roll as the default page.  Take a look at the course site, and in particular, how the yml header of `index.md` [file](https://raw.githubusercontent.com/DAAHNYUAD/daahnyuad.github.io/refs/heads/master/_pages/index.md) is constructed. 
+
+```
+---
+layout: single
+title: "Welcome"
+permalink: /
+---
+```
+
+If you leave the permalink blank after the slash it becomes the landing page!
+
+# Creating a Table of Contents (TOC) for a Page
+
+Take a look at the course site, and in particular, how the yml header of `schedule.md` [file](https://raw.githubusercontent.com/DAAHNYUAD/daahnyuad.github.io/refs/heads/master/_pages/scheduleF26.md) is constructed. 
+
+```
+---
+title: "Schedule F26"
+permalink: /schedule/
+author_profile: false
+toc: true
+toc_label: "Fall 2026 Schedule"
+toc_sticky: true
+toc_icon: "calendar"
+---
+```
 
 Good luck with your customization!
 
