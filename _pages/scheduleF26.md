@@ -155,12 +155,12 @@ Topic: Humanitarian Mapping
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 27 Oct 3:20PM-6:00PM | (https://daahnyuad.github.io/blog/Assignment2-F26/) <br> -(https://archive.org/details/in.ernet.dli.2015.206964)Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | <br> -Brainstorming for [Assignment 2] <br> -Designing [Overpass Turbo](https://overpass-turbo.eu/) queries with an LLM and visualizing the data using Leaflet |
-| Thurs, 29 Oct 3:20PM-4:35PM |  -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Discussion and continuation of geospatial coding in VSCode | 
+| Tues, 27 Oct 3:20PM-6:00PM | (https://daahnyuad.github.io/blog/Assignment2-F26/) | <br> -Brainstorming for [Assignment 2](https://djwrisley.github.io/DHS/Assignment2-F26/) <br> -Designing [Overpass Turbo](https://overpass-turbo.eu/) queries with an LLM and visualizing two layers data using kepler.gl |
+| Thurs, 29 Oct 3:20PM-4:35PM |  <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Discussion and continuation of geospatial coding in VSCode | 
 
 ### Week 9 
 
-Topic: More Maps
+Topic: Close Spatial Reading
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
