@@ -151,7 +151,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 
 ### Week 8 
 
-Topic: Humanitarian Mapping
+Topic: Practicing More Mapping
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
