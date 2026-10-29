@@ -184,7 +184,12 @@ Topic: Images as Data
 
 ### Week 11 
 
-Instructor away at a conference. Independent work. 
+Instructor away at a conference. Shortened Tuesday class online. Independent work on Thursday. 
+
+| Time/Date | Preparation | Activity |
+| :--- | :--- | :--- |
+| Tues, 17 Nov 3:20PM-4:20PM | shortened online class | |
+| Thursm 19 Nov | no class | independent work on Assignment 2 |
 
 ### Week 12 
 
