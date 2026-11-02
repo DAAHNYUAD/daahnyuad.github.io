@@ -147,7 +147,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
  
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 30 October, total 10% of final grade, this part being 5%.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/dln-assignment-f26/)**, Due Date 15 November, total 10% of final grade, this part being 5%.
 {: .notice} 
 
 ### Week 8 
