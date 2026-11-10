@@ -166,10 +166,11 @@ Topic: Close Spatial Reading
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
 | Tues, 3 Nov 3:20PM-6:00PM |  <br> - make an account at [Recogito](https://recogito.pelagios.org/signup) and share your username  <br> -About [Socotra](https://en.wikipedia.org/wiki/Socotra) <br> -[What is a Gazetteer? (slides)](https://docs.google.com/presentation/d/1mKDnnlUSgma24tZGBbHTD5aCzYYtCsPL0sggBCljClw/edit?usp=sharing) | <br> -spatial close reading of the section on Socotra in "[Southern Arabia](https://www.gutenberg.org/ebooks/21569)" by [J. Theodore Bent](https://en.wikipedia.org/wiki/James_Theodore_Bent) and Mrs. Bent |
-| Thurs, 5 Nov 3:20PM-4:35PM | <br> -What is OSM? <br> -What is the Overpass API? | <br> -editing, querying & visualizing [Overpass Turbo]( https://overpass-turbo.eu/) with the help of Gemini  <br> -Notebook: “Querying and Visualizing OSM data with R” (posit.cloud) <br> -Distant coding with [UAE data](https://download.geonames.org/export/dump/) (geonames) and leaflet in R | 
+| Thurs, 5 Nov 3:20PM-4:35PM | <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Binkyte, "[Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies](https://dhq-static.digitalhumanities.org/pdf/000686.pdf)" <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) | Discussion and Exploration <br> -[Photogrammar](https://photogrammar.org/maps) | 
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
 
 ## UNIT 4: IMAGE DATA
 
@@ -179,8 +180,8 @@ Topic: Images as Data
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 10 Nov 3:20PM-6:00PM | <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Binkyte, "[Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies](https://dhq-static.digitalhumanities.org/pdf/000686.pdf)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Exploring Image Clustering with Orange |
-| Thurs, 12 Nov  3:20PM-4:35PM | <br> -[Download Orange Data Mining](https://orangedatamining.com/) <br> -Lang and Ommer "[Transforming Information Into Knowledge: How Computational Methods Reshape Art History](https://dhq-static.digitalhumanities.org/pdf/000560.pdf)"  <br> -Impett and Offert, "[There is a Digital Art History"](https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Discussion of "Distant Viewing" | 
+| Tues, 10 Nov 3:20PM-6:00PM |  <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Lang and Ommer "[Transforming Information Into Knowledge: How Computational Methods Reshape Art History](https://dhq-static.digitalhumanities.org/pdf/000560.pdf)" | <br> -geocoding for A2  <br> -[Selfie City](https://selfiecity.net/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Notebook: "Manipulating Digital Images with Magick" (posit.cloud) |
+| Thurs, 12 Nov  3:20PM-4:35PM |   <br> -Impett and Offert, "[There is a Digital Art History"](https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Discussion of "Distant Viewing" <br> -places/way to look for building an image corpus <br> -Notebook: "Manipulating Images 2" | 
 
 
 ### Week 11 
@@ -189,8 +190,8 @@ Instructor away at a conference. Shortened Tuesday class online. Independent wor
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 17 Nov 3:20PM-4:20PM | shortened online class | |
-| Thursm 19 Nov | no class | independent work on Assignment 2 |
+| Tues, 17 Nov 3:20PM-4:20PM (online) | <br> -What is the Distant Viewing Explorer? <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -Play with the DVExplorer |
+| Thurs, 19 Nov | no class | independent work on Assignment 2 |
 
 ### Week 12 
 
@@ -198,8 +199,8 @@ Topic: "Looking at and through the algorithm"
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 24 Nov 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  <br> -Extension of Distant Viewing Using scripts from the Distant Viewing Lab and agentic coding |
-| Thurs, 26 Nov  |  |  | 
+| Tues, 24 Nov 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -Exploring Image Clustering with Orange <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) |  <br> -Extension of Distant Viewing Using scripts from the Distant Viewing Lab and agentic coding |
+| Thurs, 26 Nov  |  | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images) | 
 
 <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) <br> -[DV Explorer 2.1-2.7 and 5.1-5.2](https://distantviewing.org/dvexplorer/pages/welcome/) | <br> -Discussion of How to Build an Image Corpus <br> -Journal of Open Humanities Data <br> -Zenodo | 
 
@@ -214,7 +215,7 @@ Topic: Computer Vision and Historical Images
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 1 Dec 3:20PM-6:00PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
+| Tues, 1 Dec 3:20PM-6:00PM |  | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection |
 | Thurs, 3 Dec 3:20PM-4:35PM | no class |  | 
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 8 May 2024, 5% final grade.
