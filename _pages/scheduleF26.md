@@ -193,6 +193,9 @@ Instructor away at a conference. Shortened Tuesday class online. Independent wor
 | Tues, 17 Nov 3:20PM-4:20PM (online) | <br> -What is the Distant Viewing Explorer? <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -Play with the DVExplorer |
 | Thurs, 19 Nov | no class | independent work on Assignment 2 |
 
+**Final Oral Exam: in person, between 27 Nov and 9 Dec. [Signups](https://docs.google.com/spreadsheets/d/1Araz0hm9_53SWe8wJaICeDOjpUgdxDgS0GfpsqkepMA/edit?gid=0#gid=0) [Tips](https://daahnyuad.github.io/tips-final-oral-exam/)** 10% final grade. 
+{: .notice}
+
 ### Week 12 
 
 Topic: "Looking at and through the algorithm"
@@ -201,6 +204,7 @@ Topic: "Looking at and through the algorithm"
 | :--- | :--- | :--- |
 | Tues, 24 Nov 3:20PM-6:00PM |  <br> -Building an Image Dataset <br> -Orange Data Mining day  <br> -Exploring Image Clustering with Orange <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) |  |
 | Thurs, 26 Nov  | More Distant Viewing | More exercises with clustering |  
+| Thurs, 26 Nov, 8-9pm, zoom  | Practice for Final Oral Exam | | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -236,7 +240,7 @@ Topic: CV
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
-| Mon, 14 Dec | Instructor at a conference - no class | |
+| Mon, 14 Dec | Instructor at a conference - no class | class made up on 26 November |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 

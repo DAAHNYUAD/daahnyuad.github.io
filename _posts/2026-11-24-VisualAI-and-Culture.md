@@ -1,5 +1,5 @@
 ---
-title: "Assignment 4 Visual AI and Culture F26"
+title: "Assignment 3 Visual AI and Culture F26"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

@@ -31,7 +31,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 
 ## Level 1 : Recall: Terms from the Class 
 
-Terms including, but not limited to, web maps, Goegraphic Information Systems (GIS), OpenStreetMap (OSM), Overpass Turbo, social justice maps, Humanitarian GIS (HOTOSM), Recogito, semantic annotation, close spatial reading, Photogrammar, distant viewing,   
+Terms including, but not limited to, web maps, Goegraphic Information Systems (GIS), OpenStreetMap (OSM), Overpass Turbo, social justice maps, prompting, LLM-assisted data extraction, Humanitarian GIS (HOTOSM), Recogito, semantic annotation, close spatial reading, visual patterns, image corpus, Photogrammar, distant viewing, DV Explorer, clustering, classification, object detection
 
 > Sample question: "Tell me in your own words about the concept of X." 
 
@@ -42,7 +42,7 @@ Arguments such as
 - Berry / Fagerjord's idea of computational thinking
 - Broman and Woo's idea of Data organization in Spreadsheets
 - Krupar's argument about the power of maps for social justice
-- Impett and Offert's idea of digital art history as critical AI 
+- Impett and Offert's idea of “Looking at and through the algorithm” 
 - Fuchsburger's critique of using AI to understand painting
 
 Possible questions: 
@@ -60,25 +60,27 @@ Possible questions:
   
 > NB: I will have a 'question bank' and so they will not be exactly the ones listed above. 
 
-## LEVEL 3: Questions about Your Assignment 2 or 3
+## LEVEL 3: Questions about Your Assignment 2 
 
-- What was the main distinction between human annotation and machine annotation (A2)?
-- What did A2 reveal about the limits of computational approaches to spatial data?
-- How did you choose the source that you worked with (A3)? 
-- How did your prompting strategy change as a result of verification of the data (A3)? 
-- What assumptions does the automated system make when matching place names to coordinates? (A2)
-- What did you learn about the topic of your assignment that you didn't know before (A2/A3)? 
-- Do you imagine that you will use computer/LLM-assisted approaches in the future to work with data? Why or why not? (A2/A3)
-- What kinds of biases can we find embedded in data (A2/A3)?
+- Which source did you choose and why? 
+- What did A2 reveal about the limits of computational approaches to working with spatial data?
+- How did your prompting strategy change over the course of the assignment? 
+- When you finalized your prompting strategy, how much human correction remained? 
+- How well did the LLM understand the cultural context of Zanzibar or the Gulf? 
+- What was the most difficult part of this assignment? 
+- What did you learn about the topic of your assignment that you didn't know before? 
+- Do you imagine that you will use computer/LLM-assisted approaches in the future to work with data? Why or why not?
+- Did any of the issues mentioned in the "Data Organization in Spreadsheets" come up in your assignment? 
 
 > NB: I will have a 'question bank' and so they will not be exactly the ones listed above. 
 
 ## LEVEL 4: Questions for Reflecting on the Class more Generally
 
-- What are you learning from this class that you have never been exposed to before? 
+- What are you learning from the second half of this class that you have never been exposed to before? 
 - What are you not sure about in the class that you would like to dive deeper into? 
 - How do the materials of the class relate to your experiences? 
-- What subject of the class have you told your friends about?
+- If you were going to take a follow up class on one of the topics of this course, what would it be? Why? 
+- What subject of the class have you told your friends about? Why?
 
 In the time between the oral exams I will take notes and score the rubric. Once all are done, I will release the grades.
 
