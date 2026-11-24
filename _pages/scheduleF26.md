@@ -208,7 +208,7 @@ Topic: "Looking at and through the algorithm"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/Assignment-3-ImageAI/)** Due 14 Dec, 20% final grade. 
+**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/VisualAI-and-Culture-F26/)** Due 14 Dec, 20% final grade. 
 {: .notice}
 
 ### Week 13 
@@ -231,8 +231,8 @@ Topic: CV
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
-| Mon, 8 Dec | CV | |
-| Mon, 10 Dec | CV | |
+| Mon, 8 Dec | MORE CV | |
+| Mon, 10 Dec | LAB: WORK FOR ASSIGNMENT 3 | |
 
 ## UNIT 5: WRAP UP
 
