@@ -16,9 +16,7 @@ tags:
 
 ## Guidelines for the Assignment:  DRAFT
 
-In this assignment we will continue to work with materials and algorithms discussed in class to explore a custom-made corpus of digital images. We will use DV Explorer to explore this corpus and then write a small critical essay based on our findings. This can be worked on in pairs, or alone. 
-
-This assignment is **optional**. You can receive up to 5 extra credit points for your grade. All students in the course will already receive full credit for the assignment. 
+In this assignment we will continue to work with materials and algorithms discussed in class since 5 November to explore a custom-made corpus of digital images. We will use DV Explorer and Orange Data Mining to explore this corpus and then write a small critical essay based on our findings. This can be worked on in pairs, or alone. 
 
 ### Part One: 
 
@@ -64,6 +62,10 @@ Be sure to comment on how differently you see the images.
 In the second computational exercise you will categorize the images using Orange Data Mining into at least two different groupings, although more than 2 are suggested. The categorization is carried out by placing the images into subfolders (each bearing a descriptive title). This means that for the purposes of your assignment, you should have two or three copies of the same images, but organized in different folders according to categories you have chosen (e.g. size, shape, color, pixelization OR origin, quantity, size). For best results, your classification system should be sure to have a somewhat equal number of images in every category. 
 
 For each of the sets of images, please generate a confusion matrix and assess the ability of the chosen algorithm (Inception, VGG, OpenFace, etc) to predict the categories you have chosen. Remember that you can click on the box where there has been misclassification and visualize the misclassified objects in the viewer. Discussing what the model got wrong, can be very interesting (perhaps more interesting than what it got right).
+
+### Part Four: Discussion
+
+
 
 Guiding questions for this part of the assignment: 
 
