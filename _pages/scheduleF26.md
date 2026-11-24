@@ -199,14 +199,12 @@ Topic: "Looking at and through the algorithm"
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 24 Nov 3:20PM-6:00PM |  <br> -Orange Data Mining day  <br> -Exploring Image Clustering with Orange <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) |  <br> -Extension of Distant Viewing Using scripts from the Distant Viewing Lab and agentic coding |
-| Thurs, 26 Nov  |  | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images) | 
-
-<br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) <br> -[DV Explorer 2.1-2.7 and 5.1-5.2](https://distantviewing.org/dvexplorer/pages/welcome/) | <br> -Discussion of How to Build an Image Corpus <br> -Journal of Open Humanities Data <br> -Zenodo | 
+| Tues, 24 Nov 3:20PM-6:00PM |  <br> -Building an Image Dataset <br> -Orange Data Mining day  <br> -Exploring Image Clustering with Orange <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) |  |
+| Thurs, 26 Nov  | More Distant Viewing | More exercises with clustering |  
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/Assignment-3-ImageAI/)** Due 8 May, 20% final grade. 
+**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/Assignment-3-ImageAI/)** Due 14 Dec, 20% final grade. 
 {: .notice}
 
 ### Week 13 
@@ -215,8 +213,8 @@ Topic: Computer Vision and Historical Images
 
 | Time/Date | Preparation | Activity |
 | :--- | :--- | :--- |
-| Tues, 1 Dec 3:20PM-6:00PM |  | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection |
-| Thurs, 3 Dec 3:20PM-4:35PM | no class |  | 
+| Tues, 1 Dec 3:20PM-6:00PM | <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) | Lab: <br> -[DV Explorer for Multimodal](https://distantviewing.org/dvexplorer/pages/welcome/) R Markdown Notebooks for Color, Object Detection and Face Detection, Extension using distant coding |
+| Thurs, 3 Dec 3:20PM-4:35PM | no class | HAPPY NATIONAL DAY! | 
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 8 May 2024, 5% final grade.
 {: .notice}
@@ -238,7 +236,7 @@ Topic: CV
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
-| Mon, 14 Dec | wrap up | |
+| Mon, 14 Dec | Instructor at a conference - no class | |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
