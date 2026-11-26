@@ -16,7 +16,7 @@ tags:
 
 ## Guidelines for the Assignment:  DRAFT
 
-In this assignment we will continue to work with materials and algorithms discussed in class since 5 November to explore a custom-made corpus of digital images. We will use DV Explorer and Orange Data Mining to explore this corpus and then write a small critical essay based on our findings. This can be worked on in pairs, or alone. It has four or five parts. 
+In this assignment we will continue to work with materials and algorithms discussed in class since 5 November to explore a custom-made corpus of digital images. We will use DV Explorer, Orange Data Mining and 2D CLIP to explore this corpus and then write a small critical essay based on our findings. This can be worked on in pairs, or alone. It has four or five parts. 
 
 ### Part One: 
 
@@ -76,7 +76,7 @@ For each of the sets of images, please generate a confusion matrix and assess th
 
 ### Part Four (optional): DV Explorer 
 
-You may want to return to DV Explorer to try out some of its features with the uncategorized version of the dataset (from Part Two) to see if they inform the observations you made above.
+You may want to return to DV Explorer to try out some of its features with the uncategorized version of the dataset (from Part Two) to see if they inform the observations you made above. In particular it could be interesting to see to what extent 2D CLIP or the DV Explorer multimodal option sheds light on the materials. 
 
 ### Part Five: Discussion
 
